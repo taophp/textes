@@ -1,0 +1,698 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 479
+\begin_document
+\begin_header
+\textclass amsart
+\begin_preamble
+\lhead{\thepage}
+\chead{La Dernière Intifada}
+\rhead{\thepage}
+\lfoot\thepage{}
+\cfoot{}
+\rfoot{\thepage}
+\fancypagestyle{plain}{
+\lhead{\thepage}
+\chead{}
+\rhead{\thepage}
+\lfoot\thepage{}
+\cfoot{}
+\rfoot{\thepage}
+}
+\setlength{\textheight}{12cm}
+\setlength{\footskip}{13cm}
+\definecolor{note_fontcolor}{rgb}{0.5,0.5,0.5}
+\end_preamble
+\use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+\end_modules
+\maintain_unincluded_children false
+\language french
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing double
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+La Dernière Intifada
+\end_layout
+
+\begin_layout Author
+Stéphane Mourey
+\end_layout
+
+\begin_layout Standard
+Un panier à la main, Sylvia marchait sur un sentier en forêt, couvant d'un
+ œil affectueux ses deux garçons qui couraient en riant plus loin devant
+ elle.
+ 
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+Étendre la description
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sur le côté, elle repéra un magnifique bolet et se pencha pour le ramasser.
+ Sur le haut de son champ de vision apparu alors un message d'alerte sur
+ fond rouge.
+ 
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+Étendre la description du message, de même les suivants : image illustrant
+ le propos avec une animation, carte indiquant l'emplacement du supermarché
+ avec le meilleur trajet, éléments sonores.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+ATTENTION! La consommation de champignons trouvés dans la nature est potentielle
+ment dangereuse.
+ Outre la toxicité bien connue et parfois mortelle de certains d'entre eux,
+ comme l'amanite tue-mouche ou l'amanite phalloïde, les champignons même
+ comestibles sont connus pour concentrer les polluants tels que les pesticides,
+ les métaux lourds et même les matériaux radioactifs.
+ Leur consommation est vivement découragée par le Ministère de la Santé
+ Publique.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sylvia écarta mentalement le message, et mit tout de même le champignon
+ dans son panier.
+ Mais un autre affichage se superposa à sa vision.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Vous aimez les champignons? Sachez que vous pouvez en trouver dans votre
+ supermarché à seulement soixante kilomètres d'ici.
+ De magnifiques champignons de Paris, bios, éthiques et durables, au goût
+ inimitable, bénéficiant de toutes les certifications qu'un consommateur
+ averti est en droit d'attendre.
+ Pour vous et pendant les trois prochaines heures seulement, bénéficiez
+ d'une promotion exceptionnelle : champignons de Paris, 75 euros le kilos.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+À nouveau, elle écarta mentalement le message.
+ Elle continua son chemin, seul un de ses sourcils légèrement froncé marquant
+ son inquiétude.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+*
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sylvia entra dans le village.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Campement
+\begin_inset Quotes frd
+\end_inset
+
+ aurait sans doute été un terme plus adéquat, mais elle aimait à penser
+ à ce rassemblement de cabanes comme à son village.
+ Celui où elle avait pu trouver une existence presque authentique et même
+ une certaine douceur de vivre.
+ Et après tout, les villages des hommes primitifs ne devaient pas être bien
+ plus glorieux.
+\end_layout
+
+\begin_layout Standard
+Combien de temps encore pourraient-ils vivre ici ?
+\end_layout
+
+\begin_layout Standard
+Elle s'approcha de 
+\emph on
+sa
+\emph default
+ maison, une des premières.
+ Elle entendit quelques notes mélancoliques, une mélodie ancienne, médiévale
+ même qu'elle connaissait bien, sonnant étrangement sur une guitare folk.
+ Puis, au fur et à mesure qu'elle s'avançait, des variations apparurent,
+ donnant un tour plus moderne et disharmonieux à la musique.
+ Un sourire se dessina sur son visage, bientôt effacé lorsqu'un nouveau
+ message vint se superposer à nouveau à sa vision.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Greenleaves.
+ Une musique issue du folklore médiéval anglais qui connut de multiples
+ versions.
+ Les plus fameuses sont disponibles en téléchargement pour un prix modique.
+ Nous recommandons pour vous la magnifique interprétation de Céline Bacchante,
+ accompagnée par l'Orchestre de Philharmonique de New-York, pour seulement
+ 34 centimes.
+ Offre valable seulement pendant 8 minutes.
+ N'attendez pas!
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Elle écarta le message, puis entra dans sa maison.
+\end_layout
+
+\begin_layout Standard
+Alphonse, son homme, arrêta de jouer en la voyant.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+_ Ils s'approchent, dit-elle.
+ Mon processeur de réalité augmentée s'est réactivé.
+\end_layout
+
+\begin_layout Standard
+_ À quelle distance se trouvent-il à ton avis ?
+\end_layout
+
+\begin_layout Standard
+_ Bien trop près, j'ai eu un message me signalant un supermarché à seulement
+ soixante kilomètres.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+*
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il y a bien longtemps maintenant, Sylvia s'était réveillée brutalement dans
+ un cauchemar.
+ Elle s'en souvenait très bien.
+ Au moment où cela s'était produit, elle était allongée sur la plage.
+ Baignée de torpeur, elle savourait la sensation du soleil qui lui brûlait
+ le dos.
+ À ce moment précis, tout lui semblait parfait : elle réussissait brillamment
+ ses études et un avenir radieux s'ouvrait devant elle, ses parents la soutenait
+, tout en lui laissant son indépendance ; elle avait une relation suivie
+ avec un étudiant de son âge (Kevin ?), aussi brillant qu'elle, ils se marieraie
+nt bientôt, à la fin de leurs études, et auraient de magnifiques enfants
+ à leur image.
+ Tout allait merveilleusement.
+ À ce moment-là, elle ne souhaitait qu'une seule chose : que cela continue
+ ainsi.
+\end_layout
+
+\begin_layout Standard
+Elle sentit alors une légère brise se lever qui la rafraîchit agréablement
+ tout d'abord, mais qui lui donna vite la chair de poule.
+ Subitement, elle se sentit glacée et son corps se couvrit d'une sueur froide.
+ Effrayée, elle se tourna et s'assit puis s'emparera de la serviette de
+ son compagnon pour s'en couvrir.
+ Elle avait toujours aussi froid.
+ Elle tremblait à présent et sa peau commençait à bleuir.
+ Autour d'elle pourtant, personne d'autre ne semblait affecté, les corps
+ restaient offerts à la morsure du soleil.
+ Elle mit sa main en visière pour se protéger de l'éblouissement et appela
+ son compagnon.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Kevin !
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Tandis qu'elle scrutait la mer où il était allé se baigner, il lui sembla
+ que l'eau, les nageurs, l'horizon, le sable devenaient flous.
+ Elle eût le temps de se demander avec étonnement si la 
+\begin_inset Formula $chaleur$
+\end_inset
+
+ expliquait cette déformation, avant que sa vue ne s'obscurcisse rapidement
+ tandis qu'une sensation de chute s'emparait d'elle.
+\end_layout
+
+\begin_layout Standard
+Un cri voulut sortir de sa gorge mais y resta bloqué.
+ Sa chute s'acheva douloureusement sur le sol.
+ Il n'était pas fait de sable chaud, mais d'un carrelage glacé.
+ Au froid, à la douleur, à l'incompréhension s'ajouta alors la terreur pure.
+ Elle voulut hurler, mais aucun son ne sortit cette fois non plus de sa
+ bouche.
+ Des tuyaux entravaient sa gorge et ses narines.
+\end_layout
+
+\begin_layout Standard
+Sylvia se rappelait du jour où elle s'était réveillée de son caisson de
+ vie augmentée.
+ Réveiller n'est peut-être pas le mot, à moins de penser au sursaut qui
+ suit un cauchemar.
+ Encore qu'après un cauchemar, un soulagement laisse progressivement place
+ au malaise, et l'on se rassure en retrouvant l'ordinaire du réel.
+ La sortie du caisson suivait exactement le mouvement inverse : on quittait
+ une illusion dont on avait perdu la conscience pour découvrir un cauchemar
+ trop réel.
+ Le traumatisme qu'elle avait subi était bien plus proche de celui d'une
+ naissance.
+\end_layout
+
+\begin_layout Standard
+Elle ne se souvenait plus être entrée dans ce caisson, ni quand cela pouvait
+ avoir eu lieu.
+ Peut-être était-ce ses propres parents qui l'y avaient placée, plein de
+ bonnes intentions, dans le but de la préserver le plus possible des accidents
+ de la vie.
+ De telle sorte que la conscience qu'elle avait pu avoir de se trouver dans
+ un environnement virtuel avait disparue.
+ Du reste, elle n'était pas la seule : bien d'autres enfants avaient ainsi
+ été protégés et elle ne rencontrait personne qui pu lui rappeler qu'elle
+ ne vivait que les songes d'une machine.
+ Jusqu'au jour où, pour une raison qu'elle ignorait, son caisson avait eu
+ une panne.
+ L'appareil était heureusement bien conçu, et son système de sécurité avait
+ fonctionné : elle avait été déconnectée, et la porte s'était ouverte.
+ Elle avait glissé sur le sol et inspirer de l'air par elle-même pour la
+ première fois après avoir vomi le liquide qui en avait tenu lieu si longtemps.
+ Une équipe allait bientôt arriver pour la prendre en charge et l'accompagner
+ jusqu'à ce qu'elle puisse retrouver ce qu'elle avait cru être son univers.
+ Mais ils ne sont pas arrivés aussi rapidement qu'ils l'auraient dû.
+ Une autre panne dans le système de transmission peut-être.
+ Sylvia s'était retrouvée, nue, trempée sur le carrelage glacé, entourée
+ de dizaines caissons lui évoquant des cercueils.
+ Elle s'est recroquevillée sur le sol, pleurant, criant de terreur, cherchant
+ à se protéger du froid avec sa longue chevelure.
+ Elle ne reconnaissait pas son propre corps.
+ Une lumière blafarde, qui pourtant l'éblouissait, lui dévoilait des membres
+ blancs, atrophiés, à la peau fripée.
+ Ses mains et ses pieds étaient ornées d'ongles exagérément longs qui s'étaient
+ entortillées sur ses membres.
+ Elle aurait voulu se réfugier dans la folie, croire au cauchemar.
+ Mais quelque chose en elle la retint.
+ Elle essaya d'abord de se mettre debout, mais ses muscles étaient trop
+ faibles pour qu'elle parvienne à se mettre à quatre pattes.
+ Ses mains se dérobèrent sous elle, et son menton heurta douloureusement
+ le sol.
+ Elle se laissa à nouveau aller aux pleurs, jusqu'à en perdre haleine.
+ Puis elle s'arrêta, s'étonnant d'avoir tout de même assez de forces pour
+ pleurer ainsi.
+ Après avoir reprit sa respiration, elle commença de ramper.
+ Sa reptation fut lente et épuisante.
+ Elle roulait des yeux dans toutes les directions pour essayer de trouver
+ un refuge dans lequel elle pourrait se cacher, où ils ne la trouveraient
+ pas lorsqu'ils arriveraient.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+[...]
+\end_layout
+
+\begin_layout Standard
+Enfin, elle se trouvait dehors ! Mais le spectacle n'était pas réjouissant
+ : elle était dans l'une de ces zones d'activités où tous les bâtiments
+ semblent désespérément vouloir masquer leur parenté flagrante avec l'entrepôt
+ de métal sans y parvenir.
+ Des magasins de tailles diverses se succédaient, laissant parfois la place
+ à des terrains vagues.
+ En soi, il n'y avait rien d'étonnant à ce que l'entrepôt des scaphandres
+ soit placé dans un tel lieu : le prix du terrain devait être faible et
+ les locataires n'allaient pas s'en plaindre.
+ Non, ce qui étonna d'abord Sylvia était le calme absolu qui régnait : il
+ n'y avait pas un bruit, pas un mouvement, à peine un souffle de vent.
+ Puis elle remarqua l'état d'abandon : les bâtiments étaient dévorés de
+ rouille, leurs enseignes étaient souvent tombées au sol ou sur le point
+ de l'être et même le macadam de la chaussée était défoncé par la végétation
+ partout où elle était parvenu à reprendre ses droits.
+ Sylvie se demanda depuis combien de temps aucun être humain n'était venu
+ jusqu'ici.
+\end_layout
+
+\begin_layout Standard
+Passé un moment de stupéfaction, elle se dirigea vers les magasins les plus
+ proches à la recherche de nourriture et de vêtements qui lui conviendraient
+ mieux.
+ Elle fut surprise de constater qu'aucun pillage, ni même aucune dégradation
+ n'avait eu lieu.
+ S'il n'y avait pas eu d'érosion, on aurait pu croire que les boutiques
+ étaient simplement fermées.
+ Il lui fallut même fracasser plusieurs vitrines pour s'y introduire.
+ Vues ses forces, la tâche n'était pas facile et elle dut s'y reprendre
+ à plusieurs fois, en marquant de nombreuses pauses.
+ Elle craignait de déclencher une alarme jusqu'à ce qu'elle comprit que
+ les bâtiments n'étaient plus alimentés en électricité depuis longtemps.
+ À force de recherche, elle finit par trouver de quoi s'habiller : jeans
+ étroit, T-shirt blanc et tennis.
+ Elle avait d'ordinaire des goûts plus sophistiqués, mais elle avait le
+ sentiment que dans l'univers qui se découvrait à elle, les considérations
+ pratiques prendraient le pas sur les esthétiques.
+ Elle trouva également quelques conserves qui, quoique la date de péremption
+ ait été largement dépassée, se révélèrent comestibles.
+ Si elle n'avait pas trouvé cela bon, au moins avait-elle pu se nourrir.
+ Mais elle ne put manger que très peu lors de son premier repas, son estomac
+ n'ayant pas l'habitude des nourritures solides.
+\end_layout
+
+\begin_layout Standard
+Au moins n'était-elle pas inquiète pour sa survie immédiate : elle avait
+ de quoi s'habiller et s'alimenter durablement, et elle ne tarderait pas
+ à s'aménager comme un nid où elle pourrait dormir et se reposer.
+ Si elle devait rester longtemps dans les parages, l'hygiène poserait peu-être
+ problème : il n'y avait pas non plus d'eau courante ou de point d'eau.
+ Au pire, pourrait-elle toujours utiliser des bouteilles d'eau minérales...
+\end_layout
+
+\begin_layout Standard
+Ce soir-là, allongée sur un matelas du rayon literie d'un grand magasin,
+ elle réfléchit aux causes pouvant expliquer une telle situation, ne parvenant
+ à croire ce que son imagination lui suggérait.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+Il y a un incohérence entre le passage précédent et le début du texte: le
+ processus de réalité augmentée ne se manifeste pas.
+ Il faut ou émettre des hypothèses d'explications, ou le rendre actif.
+ S'il est activé, quelles informations donne-t-il ? et 
+\emph on
+à qui
+\emph default
+ ?
+\end_layout
+
+\begin_layout Plain Layout
+Si la zone dans laquelle elle se trouve est désertée par les hommes, elle
+ ne l'est pas par les machines.
+ Le processus de réalité augmentée, s'il n'a rien à lui vendre, devrait
+ au moins lui proposer de l'aide.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Separator parbreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+*
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+Le maire : souhaite une conciliation avec ceux qui arrivent.
+\end_layout
+
+\begin_layout Plain Layout
+Alphonse, ancien des guerres africaines, préfère le combat.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+Alphonse et Sylvia sont allé prévenir le maire, qui a décidé qu'une Assemblée
+ Générale devrait avoir lieu ce soir-là.
+ Ils sont repartis, et maintenant, le maire se retrouve seul.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Lorsqu'ils furent sortis, José ferma les épais rideaux d'un geste vif, plongeant
+ la pièce dans la pénombre, avant de s'effondrer sur son fauteuil.
+ Il prit sa tête dans ses deux mains et se massa doucement les tempes.
+\end_layout
+
+\begin_layout Standard
+Ce jour, il y avait tant d'années qu'il le redoutait qu'il avait fini par
+ croire qu'il ne se produirait plus, ou plutôt, qu'il aurait la chance de
+ mourir avant.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+José est veuf, mais lorsqu'il est seul, il se comporte comme si sa femme
+ était là : ils se parlent, il la voit.
+ Avant de la faire apparaître pour le lecteur, il faudra introduire la notion
+ de veuvage lors du premier entretien entre lui et Sylvia et Alphonse :
+ une photo de la défunte pour introduire le dialogue ? Comment est-elle
+ morte au juste ?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+_ Tu n'es pas jaloux, n'est-ce pas ?
+\begin_inset Quotes frd
+\end_inset
+
+, lui demanda soudainement sa femme.
+\end_layout
+
+\begin_layout Standard
+Il sursauta.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+_ Je ne t'avais pas entendue venir.
+ Tu m'as fait une trouille bleue.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il marqua une pause.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+_ Et de quoi veux-tu que je sois jaloux ?
+\end_layout
+
+\begin_layout Standard
+_ De leur jeunesse, répondit-elle, de leur amour, de leur force.
+ De leur vie, quoi.
+\end_layout
+
+\begin_layout Standard
+_ Et pourquoi serai-je jaloux de leur vie?, s'insurgea-t-il.
+\end_layout
+
+\begin_layout Standard
+_ Allons, José, tu n'es plus qu'un fantôme.
+\end_layout
+
+\begin_layout Standard
+_ Ah, non, protesta-t-il, c'est toi le fantôme.
+\end_layout
+
+\begin_layout Standard
+_ Tu te trompes.
+ Moi, je ne suis qu'un souvenir.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il se tourna vers elle, mais ne vit qu'un fauteuil vide.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+Fin
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le jeune garçon, les joues striées de larmes, ramassa une pierre sur sol,
+ leva son poing serré vers le ciel en criant et la jeta de toutes ses forces
+ sur un bulldozeur.
+ Mais que peuvent les pierres ?
+\end_layout
+
+\end_body
+\end_document

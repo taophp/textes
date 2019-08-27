@@ -1,0 +1,467 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage{lastpage}
+\def\title#1{\gdef\@title{#1}\gdef\THETITLE{#1}}
+\fancyhead[C]{\leftmark}
+\fancyhead[R,L]{\thepage}
+\fancyfoot[R]{\thepage / \pageref{LastPage}}
+\fancyfoot[L]{\thepage}
+\fancyfoot[C]{Stéphane Mourey - \THETITLE}
+\fancypagestyle{plain}{
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[R]{\thepage / \pageref{LastPage}}
+\fancyfoot[L]{\thepage}
+\fancyfoot[C]{Stéphane Mourey - \THETITLE}
+}
+\renewcommand{\headrulewidth}{0.1pt}
+\renewcommand{\footrulewidth}{0.1pt}
+
+\setlength{\textheight}{12cm}
+\setlength{\footskip}{13cm}
+
+\newenvironment{premierjet}[0]{\begin{list}{}{%
+\setlength{\textheight}{23cm}
+\setlength{\footskip}{1cm}
+}\item }{\end{list}}
+
+\newenvironment{final}[0]{\begin{list}{}{%
+\setlength{\textheight}{23cm}
+\setlength{\footskip}{1cm}
+\singlespace
+}\item }{\end{list}}
+
+\usepackage{verbatim}
+\newcommand\charcount{
+    \immediate\write18{texcount -char \jobname.tex | grep 'Letters in text'  >count.txt}
+    \verbatiminput{count.txt}
+}
+\newcommand\wordcount{
+    \immediate\write18{texcount \jobname.tex | grep 'Words in text'  >count.txt}
+    \verbatiminput{count.txt}
+}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language french
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing double
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 3cm
+\rightmargin 2cm
+\bottommargin 2cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+La Porte Oubliée
+\end_layout
+
+\begin_layout Author
+Stéphane Mourey
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Moi, Zorastre de Kragonie, Druide du Cinquième Cercle de l'Ordre de Simurgh,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Aux Princes-Mages et aux Druides des Cercles Supérieurs de l'Ordre de Simurgh,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Salut !
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Depuis longtemps déjà, j'ai observé des présages inquiétants, de plus en
+ plus fréquents.
+ J'ai décidé d'en faire l'étude et y consacrait bien des efforts.
+ Ce travail aboutit à une prophétie : la Neuvième Porte Scellée sur le Royaume
+ Obscur va être ouverte à nouveau et l'Ennemi y trouvera le moyen de son
+ retour et une nouvelle Guerre 
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+[trouver un nom]
+\end_layout
+
+\end_inset
+
+ aura lieu.
+ J'ai fait part de ma prophétie à mes supérieurs de l'Ordre, puis, devant
+ leur incrédulité, à leurs supérieurs.
+ Personne ne m'a cru et aujourd'hui, la Porte est ouverte, l'Ombre déferle
+ à nouveau sur le monde.
+ J'ai tâché, seul, de tenir cette Porte, mais n'y suis pas parvenu.
+ La Porte Oubliée, il m'avait fallu la découvrir.
+ Mes pas me menèrent à Arbruk, mais je n'y parvins que trop tard.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Cette dernière humiliation, je ne puis la tolérer.
+ Je ne puis continuer à servir un Ordre aussi aveugle devant la Vérité.
+ Depuis que j'ai été ordonnée Druide de l'Ordre, bien souvent ai-je vu ma
+ personne rabaissée.
+ Il semble bien que les autres Druides pensent qu'en Kragonie, il n'y ait
+ d'autre culture que le chant des oiseaux et qu'un Druide venu de là-bas
+ est incapable de déchiffrer les Runes d'Agar ou de pénétrer les Lames de
+ l'Abîme.
+ Que ce mépris retarde mon accès à certaines Révélations, soit, je pouvais
+ me montrer patient.
+ Mais j'ai vois aujourd'hui des conséquences bien plus graves : ma parole
+ n'est pas entendue, ni même écoutée.
+ Cette surdité est maintenant la source d'un fleuve de sang qui s'apprête
+ à déferler sur le Monde.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Je renonce donc à mes devoirs vis-à-vis de l'Ordre, comme à sa protection
+ et à son enseignement.
+ Je renonce à revendiquer son nom.
+ Ceux qui étaient mes frères en me sont plus rien.
+ Je ne me connais plus ni suzerain, ni maître.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+En toute justice, je porte désormais le nom de Mage Renégat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Toutefois, la Blanche Alliance pourra toujours me compter au nombre des
+ siens.
+ S'asservir à l'Ombre par dépit d'une lumière voilée ne mène à aucune libération.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Zorastre de Kragonie, Mage Renégat,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Aux Princes-Mages et aux Druides des Cercles Supérieurs de l'Ordre de Simurgh,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Adieu.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+*
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le ciel était si bas et si gris, la pluie si épaisse ce soir-là sur Arbruk
+ que la nuit viendra sans que l'on perçut seulement le crépuscule.
+ Personne ne vit tout d'abord entrer dans le village un cheval bai rouanné
+ portant un homme au long manteau gris, la capuche sur la tête rabattue
+ jusque sur les yeux, tant il semblait se fondre dans la grisaille.
+\end_layout
+
+\begin_layout Standard
+Tandis qu'il descendait la rue principale, l'homme se fit la remarque que
+ Arbruk était bien calme et il craint de n'être arrivé trop tard.
+ Mais non, il n'y avait de cadavre nulle part, nulle chaumière n'avait été
+ incendiée, nul signe de destruction où que ce fut.
+\end_layout
+
+\begin_layout Standard
+Il vit une maison dont la cheminée fumait.
+ Il frappa à sa porte.
+ À une fenêtre un rideau s'écarta pour retomber aussitôt, puis une vieille
+ femme lui ouvrit :
+\end_layout
+
+\begin_layout Standard
+--- Que voulez-vous, étranger ? Que faites-vous ici ?
+\end_layout
+
+\begin_layout Standard
+L'homme qui lui répondit était de haute stature.
+ Il fixa sur elle un regard perçant de sous ses sourcils grisonnants.
+ Il lui dit en souriant :
+\end_layout
+
+\begin_layout Standard
+--- Pardonnez-moi, madame, de vous déranger alors que la nuit s'annonce
+ déjà.
+ Voyez-vous, je viens d'arriver à Arbruk et je cherchais à me loger pour
+ quelques jours.
+ Mais, je ne sais ce qui se passe ici, le village est désert et je ne sais
+ où m'adresser.
+ J'ai vu de la fumée sortir de votre cheminée, alors je me suis permis...
+\end_layout
+
+\begin_layout Standard
+L'homme ne plaisait pas à la vieille femme : son accent lui déplaisait et
+ il lui paraissait trop poli pour être honnête.
+ Elle l'interrompit :
+\end_layout
+
+\begin_layout Standard
+--- Il n'y a pas grand monde au village ce soir.
+ Beaucoup sont allés à la veillée des conscrits qui campent dans la forêt.
+ Vous n'avez qu'à attendre devant l'auberge, vous serez logé quand ils rentreron
+t.
+\end_layout
+
+\begin_layout Standard
+--- Des conscrits ? Où sont-ils ?
+\end_layout
+
+\begin_layout Standard
+Elle n'avait pas envie de l'aider en quoique ce soit et elle aurait refusé
+ de lui répondre.
+ Mais ces questions étaient posées avec une telle autorité qu'elle le fit
+ tout de même sans pouvoir s'en empêcher.
+ Il la remercia platement avant de partir dans la direction qu'elle li avait
+ indiquée.
+ Elle était soulagée de le voir partir.
+ Elle était surprise de lui avoir si bien répondu, en quelque sorte contre
+ sa volonté.
+ Elle se demanda s'il n'était pas sorcier et s'il ne lui avait pas jeté
+ un sort pour la faire parler.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Sort de persuasion à la parole.
+ 1er cercle.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il disparut dans la grisaille et elle referma la porte.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+*
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Certains contrées pratiques la tradition des Conscrits dont l'origine se
+ perd dans la nuit de temps.
+ Lorsqu'un jeune homme ou une jeune femme approche de l'âge de vingt ans,
+ il ou elle rejoint un groupe de conscrits.
+ Dès lors, et pendant l'année ou les deux années qui suivront, il ou elle
+ participera avec eux à toutes sortes d'activités qui connaissent bien des
+ variations locales, mais dont la nature est presque toujours festive.
+ Il s'agit en quelque sorte de profiter des derniers moments d'insouciance
+ de la jeunesse et de marque le passage à l'âge adulte.
+\end_layout
+
+\begin_layout Standard
+À Arbruk, les jeunes gens rejoignaient alors les conscrits au mois de novembre
+ pour deux ans.
+ Alors, au cours d'une grande fête dans les bois à laquelle tout le village
+ était convié, les anciens conscrits laissaient la place aux nouveaux, non
+ sans leur infliger quelques épreuves ou quelques gages dans une ambiance
+ plutôt bonne enfant.
+\end_layout
+
+\begin_layout Standard
+Cette année-là, il faut bien le dire, l'ambiance lors de cette grande fête
+ était plutôt morose.
+ Il pleuvait sans presque discontinuer depuis plusieurs semaines.
+ Il est vrai que les pluies n'étaient pas rares dans la région, surtout
+ en cette saison, mais de mémoire d'homme, il n'y avait jamais eu de telles
+ averses pendant si longtemps.
+ Heureusement que ces contrées étaient plutôt vallonnées, l'eau pouvant
+ s'écouler sans faire trop de dégâts.
+ Mais tout de même, le mauvais temps durait, la terre était gorgée d'eau
+ qu'on en venait à craindre des inondations tout de même, voire des glissements
+ de terrain.
+\end_layout
+
+\begin_layout Standard
+Au camp des conscrits, des dispositions avaient été prises pour que l'on
+ puisse s'amuser au mieux : des bâches étaient tendues dans les arbres,
+ de longues planches de bois avaient été posées au sol et un grand feu avait
+ été allumé avec le bois sec de l'an dernier.
+ Cela ne suffisait pourtant pas à réchauffer ces cœurs refroidis d'humidité.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+*
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+charcount
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+wordcount
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

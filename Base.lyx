@@ -1,0 +1,762 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass hollywood
+\use_default_options false
+\maintain_unincluded_children false
+\language french
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 0
+\use_esint 0
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5in
+\topmargin 48bp
+\rightmargin 0.75in
+\bottommargin 30bp
+\headheight 12bp
+\headsep 24bp
+\footskip 6bp
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language swedish
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Des Villes, Des Champs
+\end_layout
+
+\begin_layout Author
+Stéphane Mourey
+\end_layout
+
+\begin_layout Right Address
+stephane.mourey@impossible-exil.info
+\begin_inset Newline newline
+\end_inset
+
+http://impossible-exil.info
+\end_layout
+
+\begin_layout General
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout General
+Synopsis
+\begin_inset VSpace 3em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout General
+Quoi de plus désabusé qu'un flic ?
+\end_layout
+
+\begin_layout General
+Josiane Deschamps ne voit pas d'un bon œil le champion qu'on lui envoie
+ de la capitale, Gérard Plainville, pour reprendre son enquête sur l'assassinat
+ d'une fillette, Julie Brémont.
+ Outre la frustration qu'elle éprouve d'être ainsi désavouée, elle le trouve
+ trop charmeur, avec elle mais aussi avec les autres.
+ Pourtant, au fil des jours, ils vont se découvrir des points communs :
+ leur âge, d'abord, ils sont tous les deux cinquantenaires ; le fait qu'ils
+ soient tous les deux divorcés pour avoir trompé leurs conjoints avec leur
+ travail ; ils ont de grands enfants qu'ils ne voient jamais ; ils ne croient
+ pas en ce qu'ils font, mais ils le font quand même.
+ Pourquoi d'ailleurs ? Désabusés des autres, désabusés d'eux-même, pourquoi
+ continuent-ils ?
+\end_layout
+
+\begin_layout General
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout General
+Scénario
+\begin_inset VSpace 3em*
+\end_inset
+
+
+\end_layout
+
+\begin_layout General
+Sauf précision contraire, tous les plans sont fixes.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset label
+LatexCommand label
+name "Josiane"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "Marie"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout INT.
+JOUR - CUISINE
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename vignettes/10.png
+	width 8cm
+	height 45mm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Une table carrée pas très grande avec une toile cirée à carreaux rouges,
+ collée au mur à droite, juste au-dessous d'une fenêtre.
+ La lumière du soleil, blanche, crue, entre à flots.
+ Le reste de la pièce parait sombre.
+ Deux femmes sont assises à cette table, Josiane et sa sœur, Marie.
+ Elles ont toutes les deux la cinquantaine.
+ Le cadrage est subjectif et prend la position du regard de Marie.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Marie"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Alors, dis-moi, c'est vrai ce qu'on raconte en ville, tu as rencontré un
+ homme?
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Oh, tu sais, ce qu'on raconte.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Marie"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Et tu as couché avec lui ?
+\end_layout
+
+\begin_layout Transition
+Changement de plan : Cadrage resserré sur le visage de Josiane, le menton
+ coupé.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename vignettes/20.png
+	width 8cm
+	height 45mm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Josiane redresse la tête et regarde Marie droit dans les yeux.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Tu crois vraiment que ça a de l'importance ?
+\end_layout
+
+\begin_layout Description
+Générique : les titres apparaissent dans une succession d'écran, textes
+ blancs (police serif élégante) sur fond noir.
+ Entre chacun d'eux s’intercalent un plan qu'ils viennent interrompre.
+ Le son est celui du plan, jamais interrompu.
+ La succession commence et termine par un titre.
+ Voici le plan qu'ils interrompent.
+\end_layout
+
+\begin_layout INT.
+JOUR - VOITURE
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename vignettes/30.png
+	width 8cm
+	height 45mm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Le cadrage est subjectif et correspond à la vue d'un passage avant de la
+ voiture qui regarde vers la fenêtre du conducteur.
+ Le cadre est resserré sur la fenêtre ouverte, de sorte que le conducteur
+ n'apparait que partiellement et on ne voit pas du tout son visage, seulement
+ les mains, le torse...
+ La voiture roule sur une digue de la Loire en plein été et de la fenêtre,
+ on la voit qui défile rapidement, ayant l'air de manquer d'eau.
+ Il fait très beau, très chaud.
+ On entend que le bruit de la voiture et du vent, radio éteinte.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "Gerard"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout INT.
+JOUR - HALL D’ENTRÉE DE L’HÔTEL DE POLICE DE TOUR
+\end_layout
+
+\begin_layout Description
+L'angle prit par la caméra est le même que s'il s'agissait d'une caméra
+ de surveillance pointée sur le bureau de l'accueil : vue d'un coin opposé
+ en hauteur.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+entre et parle avec la personne chargée de l'accueil.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+est vu de trois quart dos.
+ La personne en charge de l'accueil est une femme en uniforme de police.
+ Ils parlent.
+ Elle passe un appel téléphonique, ils parlent encore et rient de bon cœur.
+ En terme de son, on entend que la voix off de 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+ (off)
+\end_layout
+
+\begin_layout Dialogue
+J'ai tout de suite vue que c'était un charmeur.
+ Pas un séducteur.
+ Je veux dire, pas un homme à femmes.
+ Il l'avait sans doute été lorsqu'il était plus jeune.
+ Mais ça lui était passé.
+ Peut-être qu'il l'avait payé assez cher.
+ Je ne sais pas.
+\end_layout
+
+\begin_layout INT.
+JOUR - BUREAUX DES ENQUÊTEURS
+\end_layout
+
+\begin_layout Description
+Bureaux 
+\begin_inset Quotes sld
+\end_inset
+
+paysage
+\begin_inset Quotes srd
+\end_inset
+
+.
+ La caméra fait un mouvement circulaire pour suivre latéralement deux hommes
+ qui les traversent depuis le fond à droite, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+ et 
+\begin_inset CommandInset label
+LatexCommand label
+name "Tonio"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+ sourit et 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Tonio"
+
+\end_inset
+
+ rit de bon cœur.
+ De nouveau, on entend que la voix off de 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+ (off)
+\end_layout
+
+\begin_layout Dialogue
+Toujours est-il qu'il ne pouvait s'empêcher de plaire.
+ À tout le monde.
+ Cela me l'a rendu immédiatement antipathique.
+\end_layout
+
+\begin_layout INTERCUT
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+ à son bureau (à la place exacte où aurait été placée la caméra du plan
+ précédent), vue de trois quart face, légèrement en plongée, comme vue de
+ quelqu'un de debout.
+ Elle est concentrée, travaille sur son ordinateur.
+ Son regard se tourne vers les nouveaux venus et elle prend un air agacé.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+ (off)
+\end_layout
+
+\begin_layout Dialogue
+Il savait s'y prendre et beaucoup tombaient sous son charme dès les premiers
+ instant.
+\end_layout
+
+\begin_layout INTERCUT
+Même angle de caméra que le plan où 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+ et 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Tonio"
+
+\end_inset
+
+ sont entrés.
+ Ils sont maintenant à coté du bureau de 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+.
+ Le son alterne entre la voix off de 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+ et le dialogue des personnages présents.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Tonio"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Ah, Josiane, il vient de m'en raconter une bien bonne.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Arrête, t'es con.
+ Tu ne vas pas raconter ça à une dame.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Elle en a vu d'autre, la dame.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+ (off)
+\end_layout
+
+\begin_layout Dialogue
+Il avait toujours l'air à l'aise.
+ Tout le temps.
+ Avec tout le monde.
+ Sauf quand, justement, sa gêne lui donnait plus de charme.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Tonio"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+C'est Gérard Plainville, le champion de Paname, qui vient te donner un coup
+ de main sur l'assassinat de la jeune Brémont.
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Enchantée, si je puis dire.
+ Josiane Deschamps.
+ Mais vous le savez déjà.
+\end_layout
+
+\begin_layout Parenthetical
+...)
+\end_layout
+
+\begin_layout Parenthetical
+Reconstitution des dernières évènements connus de la Julie Brémont.
+ Pour cette partie, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+ et 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+ suive son itinéraire.
+ Celui-ci est filmé au moment où 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Julie"
+
+\end_inset
+
+ le parcourt et 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+ et 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+ en parlent comme s'ils étaient présents.
+\end_layout
+
+\begin_layout Parenthetical
+Par exemple, bien que l'école soit fermée, ils sont tout les deux dans le
+ couloir et au moment où la cloche sonne, les enfants l'envahissent en courant
+ et en criant, à tel point qu'ils ont du mal à parler.
+\end_layout
+
+\begin_layout Parenthetical
+Gérard: Je suis sûr qu'il y a quelque chose qui t'a échappé.
+ Quelque chose qui te parait tellement évident que tu n'as pas pensé à le
+ regarder autrement.
+ Quelque chose qui fait tellement parti de ton quotidien que tu ne le vois
+ plus.
+ Alors, j'ai besoin de tout savoir sur toi, tout ce que tu fais sans y penser.
+ Comme, par exemple, le matin, si, pour choisir tes chaussures, tu commences
+ par essayer toutes celles qui te tentent du pied droit et que tu la regardes
+ pour en juger l'effet et que seulement ensuite tu chausses l'autre pied,
+ je veux le savoir.
+\end_layout
+
+\begin_layout EXT.
+NUIT - BAL DU 14 JUILLET
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dialogue
+Sur une scène, en arrière-plan, un groupe joue 
+\begin_inset Quotes sld
+\end_inset
+
+Marguerite
+\begin_inset Quotes srd
+\end_inset
+
+ de Damien Saez, en version musette avec un accordéon.
+\end_layout
+
+\begin_layout Description
+Ils dansent ensembles.
+\end_layout
+
+\begin_layout EXT.
+NUIT - DIGUE AU BORD DE LA LOIRE
+\end_layout
+
+\begin_layout Dialogue
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Josiane"
+
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Gerard"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Parenthetical
+...
+\end_layout
+
+\begin_layout EXT.
+JOUR - CHAMPS DE MAÏS
+\end_layout
+
+\begin_layout Description
+Traveling latéral de droite vers gauche sur des mannequins féminins tels
+ que ceux qui sont utilisés dans les vitrines, assis sur le sol, jambes
+ écartés, les uns derrière les autres.
+ Leurs visages sont maquillés, ils ont des perruques.
+ Ils ont été aspergés d'essence et sont en feu, le feu se propageant dans
+ un mouvement inverse à celui du traveling.
+ Le dernier mannequin n'en est pas un, c'est un homme, grimé maladroitement
+ en femme.
+ Il porte une jupe légère et ample, rouge, un chandail jaune, une perruque
+ noire.
+ Il est maquillé de la même façon que les mannequins.
+\end_layout
+
+\begin_layout EXT.
+UNE RUE - JOUR
+\end_layout
+
+\begin_layout Description
+L'homme du plan précédent marche en titubant.
+ Ses vêtements, ainsi que lui-même, portent des traces de brûlures.
+\end_layout
+
+\begin_layout INTERCUT
+GÉNÉRIQUE DE FIN
+\end_layout
+
+\begin_layout Description
+\begin_inset Quotes sld
+\end_inset
+
+L'Œillet Rouge
+\begin_inset Quotes srd
+\end_inset
+
+ par Barbara pour la musique.
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,649 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 479
+\begin_document
+\begin_header
+\textclass book
+\begin_preamble
+\usepackage{lastpage}
+\usepackage{color}
+\usepackage{tikz}
+\usepackage[utf8]{inputenc}
+\usepackage{rotating}
+\usepackage{soul}
+%\usepackage[pdftex,dvipsnames]{xcolor} 
+\usepackage[colorinlistoftodos,prependcaption,textsize=tiny]{todonotes} %see https://tex.stackexchange.com/questions/9796/how-to-add-todo-notes
+\usepackage{graphicx}
+\usepackage{titlepic}
+
+\usetikzlibrary{positioning}
+\usetikzlibrary{decorations.text}
+\usetikzlibrary{decorations.pathmorphing}
+\usetikzlibrary{fadings}
+\tikzset{fading text/.style={}}
+
+\def\title#1{\gdef\@title{#1}\gdef\THETITLE{#1}}
+\fancyhead[R,L]{}
+\fancyfoot[RO,LE]{Stéphane Mourey - \THETITLE\ - \thepage}
+\fancyfoot[LO,RE]{\today}
+ \fancyfoot[C]{}
+\fancypagestyle{plain}{
+  \fancyhead{}
+  \renewcommand{\headrulewidth}{0pt}
+%  \fancyfoot[C]{}
+}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\definecolor{note_fontcolor}{rgb}{0.5,0.5,0.5}
+
+%\setlength{\textheight}{12cm}
+%\setlength{\footskip}{13cm}
+
+\newenvironment{premierjet}{
+\setlength{\textheight}{23cm}
+\setlength{\footskip}{1cm}
+}{}
+
+\newenvironment{final}{
+\begin{premierjet}
+\singlespace
+}{\end{premierjet}}
+
+\newenvironment{machine}{
+% texte frappé à la machine à écrire par Antoine
+%environment destiné à être conservé dans la version finale, il semble poser problème à l'export. Il faudra le supprimer et faire les modifications nécessaires manuellement dans le document lui-même si l'éditeur demande un odt. Idée : remplacer les paramétrages actuel de l'environnement par des marqueurs de début et de fin affichés dans le document pour être utilisé dans un macro sous LibreOffice %
+\begin{flushleft}
+\begin{quotation}
+\leftskip-1.5cm
+\ttfamily
+}{
+\end{quotation}
+\end{flushleft}
+}
+\newenvironment{rmachine}{
+%texte frappé par la machine seule
+%environment destiné à être conservé dans la version finale, il semble poser problème à l'export. Il faudra le supprimer et faire les modifications nécessaires manuellement dans le document lui-même si l'éditeur demande un odt. Idée : remplacer les paramétrages actuel de l'environnement par des marqueurs de début et de fin affichés dans le document pour être utilisé dans un macro sous LibreOffice %
+\begin{machine}
+\color{red}
+}{\end{machine}}
+
+\newenvironment{cmachine}{
+% comme l'environnement machine, mais avant réparations
+%environment destiné à être conservé dans la version finale, il semble poser problème à l'export. Il faudra le supprimer et faire les modifications nécessaires manuellement dans le document lui-même si l'éditeur demande un odt. Idée : remplacer les paramétrages actuel de l'environnement par des marqueurs de début et de fin affichés dans le document pour être utilisé dans un macro sous LibreOffice %
+\begin{machine}
+\rightskip3.9cm
+}{\end{machine}}
+
+\newenvironment{crmachine}{
+% comme l'environnement rmachine, mais avant réparations
+%environment destiné à être conservé dans la version finale, il semble poser problème à l'export. Il faudra le supprimer et faire les modifications nécessaires manuellement dans le document lui-même si l'éditeur demande un odt. Idée : remplacer les paramétrages actuel de l'environnement par des marqueurs de début et de fin affichés dans le document pour être utilisé dans un macro sous LibreOffice %
+\begin{rmachine}
+\rightskip3.9cm
+}{\end{rmachine}}
+
+\newenvironment{noheadnofoot}{
+\fancyhead[L,C,R]{}
+\fancyfoot[L,C,R]{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+}{
+\fancyhead[R,L]{}
+\fancyfoot[RO,LE]{Stéphane Mourey - \THETITLE\ - \thepage}
+\fancyfoot[LO,RE]{\today}
+ \fancyfoot[C]{}
+}
+
+
+
+
+\newcommand\asterix{
+    \vspace*{2em}
+    \begin{center}
+        {*}
+    \par\end{center}
+    \vspace*{2em}
+}
+\newcommand\asterixx{
+    \begin{doublespacing}
+    \vspace*{2em}
+    \begin{center}
+        {*}
+
+        {*}\hspace*{3em}{*}
+    \par\end{center}
+    \vspace*{2em}
+    \end{doublespacing}
+}
+
+\newcommand\updatestats{
+    \immediate\write18{/home/steph/bin/lyxupdatestats}
+}
+\newcommand\statwords{
+    \immediate\write18{/home/steph/bin/lyxgetstats words 65>/home/steph/.lyx/statw.txt}
+    \input{/home/steph/.lyx/statw.txt}
+}
+\newcommand\statchars{
+    \immediate\write18{/home/steph/bin/lyxgetstats chars 361>/home/steph/.lyx/statc.txt}
+    \input{/home/steph/.lyx/statc.txt}
+}
+\newcommand\statcharspace{
+    \immediate\write18{/home/steph/bin/lyxgetstats chars-space 394>/home/steph/.lyx/statcs.txt}
+    \input{/home/steph/.lyx/statcs.txt}
+}
+
+\newcommand{\smnumbers}[1]{
+    \fancyhead[R]{#1 - \thepage}
+    \fancyfoot[R]{#1 - \thepage / \pageref{LastPage}}
+}
+
+\newcommand\startinlinemachine{
+\ttfamily
+\color{red}
+}
+
+\newcommand\stopinlinemachine{
+\normalfont
+\color{black}
+}
+
+
+\newcommand*\cleartoleftpage{%
+  \clearpage
+  \ifodd\value{page}\hbox{}\newpage\fi
+}
+
+\newcommand\fadingtext[2][]{%
+  \begin{tikzfadingfrompicture}[name = fading letter]
+    \node[text = transparent!0, inner xsep = 0pt, outer xsep = 0pt] {#2};
+  \end{tikzfadingfrompicture}%
+  \begin{tikzpicture}[baseline = (textnode.base)]
+    \node[inner sep = 0pt, outer sep = 0pt] (textnode) {\phantom{#2}}; 
+    \shade[path fading = fading letter, fading text, #1, fit fading = false]
+    (textnode.south west) rectangle (textnode.north east);% 
+  \end{tikzpicture}% 
+}
+
+\newcommand\fadingttext[2][]{%
+  \begin{tikzfadingfrompicture}[name = fadding letter]
+    \node[text = transparent!0, inner xsep = 0pt, outer xsep = 0pt] {#2};
+  \end{tikzfadingfrompicture}%
+  \begin{tikzpicture}[baseline = (textnode.base)]
+    \node[inner sep = 0pt, outer sep = 0pt] (textnode) {\phantom{#2}}; 
+    \shade[path fading = fadding letter, fading text, #1, fit fading = false]
+    (textnode.south west) rectangle (textnode.north east);% 
+  \end{tikzpicture}% 
+}
+
+\renewcommand{\thesection}{\arabic{section}.}
+
+\NewDocumentEnvironment{mytitlepage}{m}{%
+\begin{titlepage}
+\center
+}{
+\end{titlepage}
+\setcounter{page}{#1}
+}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language french
+\language_package default
+\inputencoding utf8x
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter GNUTypewriter
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc true
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 90
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\notefontcolor #323232
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 2cm
+\topmargin 3cm
+\rightmargin 2cm
+\bottommargin 2cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 1
+\tocdepth 5
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{mytitlepage}{1}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{mytitlepage}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{mytitlepage}{1}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{mytitlepage}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{noheadnofoot}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Le Grand Morgrok
+\end_layout
+
+\begin_layout Author
+???
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{noheadnofoot}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{mytitlepage}{6}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{Huge}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le Grand Morgrok
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{Huge}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{Large}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+???
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{Large}
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Éditions de la ???
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{mytitlepage}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+A.M.1 Commencement
+\end_layout
+
+\begin_layout Standard
+Au moment où commence notre histoire vivait, au fin fond de la forêt, une
+ créature étrange et terrifiante, une créature nommée Morgrok.
+ Mille histoires plus effrayantes les unes que les circulaient à son sujet
+ et les conteurs en avaient fait l'un de leurs personnages favoris lorsqu'ils
+ voulaient rendre la nuit noire plus noire encore.
+ Et les parents irrités menaçaient leurs enfants d'être emportés par le
+ Grand MoOOooOorRRrgrRrroOOoOOooOKk (il convenait, dans ces circonstances
+ de hausser le ton et de mettre quelques vibratos et trémolos dans la voix).
+ À voix basse seulement on osait évoquer les folles rumeurs à propos des
+ créatures qui avaient engendré un tel monstre : ce devait être des monstres
+ eux-aussi, mais le débat, souvent aviné, était se savoir lesquels...
+\end_layout
+
+\begin_layout Standard
+En réalité, il n'en était pourtant rien.
+ Les parents du Morgrok étaient des gens plutôt ordinaires, plutôt doux
+ de tempérament.
+ Le Morgrok, à sa naissance, était un joli petit garçon, qu'ils accueillirent
+ comme un don du ciel.
+ Son seul malheur fut que son père nourrit pour lui des ambitions militaires.
+ 
+\end_layout
+
+\begin_layout Standard
+Tout d'abord, il avait voulu que son nom donné comme celui un terrible guerrier,
+ que, rien qu'à l'entendre, ses ennemis s'enfuiraient à tout jambes.
+ Il fallait que ce fut comme un grondement de tonnerre ! Pendant plusieurs
+ jours à la naissance de l'enfant, il marmonna dans sa barbe.
+ Il semblait à son épouse qu'il jurait parfois, qu'il grommelait d'autres
+ fois, ou même qu'il mâchait des pierres.
+ Le quatrième jour, il ouvrit brusquement la porte de chez en criant : "J'ai
+ trouvé ! Il s’appellera MoOOooOorRRrgrRrroOOoOOooOKk!" (Il avait déjà compris
+ l'intérêt des trémolos et des vibratos.) L'effet était réussi : son épouse,
+ terrifiée de le voir se ruer chez lui, hurlant l'air dément, s'évanouit
+ de frayeur et tomba à la renverse.
+ Le père sut alors sans l'ombre d'un doute qu'il avait trouvé le nom qu'il
+ fallait pour son petit chérubin d'amour.
+\end_layout
+
+\begin_layout Standard
+Le Morgrok eut ensuite une enfance plutôt paisible.
+ Si l'on appeler paisible une vie rythmée par des exercices militaires quotidien
+s, dès six heures le matin jusqu'à neuf heures du soir.
+ Son père voulait qu'une grand il soit une parfaite machine de guerre, prête
+ à dévaster le champ de bataille.
+ Le Morgrok, étant plutôt rêveur et contemplatif, éprouvait les plus grandes
+ difficultés à le satisfaire ce qui faisait que son père s'emportait presque
+ tous les jours contre lui.
+ Mais le Morgrok finit pas devenir un bon comédien et son père ressentait
+ une grande fierté à avoir endurci son fils de la sorte.
+\end_layout
+
+\begin_layout Standard
+Quand enfin arriva l'âge pour le Morgrok de rejoindre les rangs d'une grande
+ et belle armée, une guerre venait justement d'être déclarée, fort à propos
+ à ce moment de l'histoire.
+ Il fut engagé et se trouva bientôt sur champ de bataille, terrorisé à la
+ perspective de se battre.
+ Mais comme il l'était plus encore par son père, il resta et fit de son
+ mieux pour tenir sa place.
+ Ce qui n'était pas aisé puisqu'il lui fallait courir en tout sens, en braillant
+ comme un diable, ne pas se faire tuer tout en essayant de ne tuer personne.
+ Bref, il jouait la même comédie qu'à son père, mais écrasé par un trac
+ bien compréhensible devant un public aussi exigeant.
+\end_layout
+
+\begin_layout Standard
+À sa grande surprise, au fil des batailles, il y parvint si bien qu'il fut
+ bientôt considéré comme un héros par ses compagnons d'infortune, du moins
+ les survivants, forts peu nombreux.
+ Sa réputation de guerrier indomptable se répandit dans les rangs même de
+ l'ennemi.
+ 
+\end_layout
+
+\begin_layout Standard
+"MoOOooOorRRrgrRrroOOoOOooOKk" était devenu le cri de guerre de ses compagnons.
+ Lorsqu'ils le faisaient retentir au début de chaque bataille, avec vibratos
+ et trémolos là où il fallait, les troupes ennemies reculaient presque de
+ terreur.
+ La guerre se prolongeant, Morgrok devint une véritable légende de son vivant.
+ Ses camarades restaient près de lui pour augmenter leurs chances de survie,
+ et les adversaires l'évitaient, le fuyaient même sans combattre.
+\end_layout
+
+\begin_layout Standard
+Morgrok aurait ainsi pu traverser cette campagne militaire sans même une
+ blessure si sa réputation elle-même n'avait pas attiré un guerrier d'une
+ autre envergure.
+ Il était connu sous le nom de Comte Van Vladrok, mais, le plus souvent
+ pour parler de lui, on l'appelait le Sanguinaire.
+ Sa cruauté faisait trembler les plus braves guerriers, qui préféraient
+ mourir que d'être capturé par lui.
+ De haut lignage, il appliquait toute la finesse de son éducation à élaborer
+ les tortures les plus subtiles et novatrices.
+ Ce qui ne l'empêchait pas sur le champ de bataille de pratiquer le carnage
+ tel une bête avide de sang.
+ Cet homme savait alterner les plaisirs subtils de l'érudit et les joies
+ viles du plus vulgaire lorsqu'il pratiquait le massacre.
+ En aucune de ces circonstances, il ne boudait son plaisir et considérait
+ la guerre comme le seul état du monde qui pût lui convenir.
+ Lorsqu'il avait appris l'existence du Morgrok, il s'était lécher les babines,
+ s'imaginant avoir trouvé là un met de choix.
+ Il se mit en quête de sa proie, et parcourut les champs de bataille jusqu'à
+ le trouver, ce qui fut pas long étant donné sa réputation.
+\end_layout
+
+\begin_layout Standard
+Qu'elle ne fut pas la déception du Comte ! Car, nous l'avons dit, Morgrok
+ n'avait pas le goût du combat et il n'y avait dû ses succès qu'à ses talents
+ de comédien, une chance hors du commun et les effets de sa réputation accumulés.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Section*
+A.M.3 Après la bataille
+\end_layout
+
+\begin_layout Standard
+Ce que fit le Comte à Morgrok, je ne puis le raconter ici, tant la chose
+ est horrible.
+ La seule grâce qu'il lui fit fut de le laisser en vie, mais ce n'était
+ que par cruauté.
+ Morgrok était devenu si difforme que vivre parmi les hommes n'était plus
+ possible : ils ne le voyaient plus comme l'un des leurs, mais comme un
+ monstre horrible et terrifiant.
+ Même ceux qui le connaissaient et avaient appris son malheur, Morgrok ne
+ pouvait se résoudre à les fréquenter : toujours, dans leurs yeux, il voyait
+ piété et dégoût mêlés.
+ Il en prit son parti, retourna dans la vallée de son enfance qu'il regrettait
+ d'avoir quitté, trouva refuge au plus profond de la forêt dans un grotte,
+ espérant que personne ne viendrait troubler son exil.
+\end_layout
+
+\begin_layout Standard
+Il se trompait, car, bientôt, des enfants découvrirent sa cachette.
+ Ils furent tout d'abord terrorisés la première fois qu'ils le virent.
+ Mais, une fois remis de leurs premières émotions, ils inventèrent une épreuve
+ de bravoure consistant à lui voler un objet lui appartenant qu'il conservait
+ dans sa grotte.
+ Sans le savoir, Morgrok, qui n'était pas devenu plus méchant mais qui était
+ resté toujours aussi bon acteur, rendait leur jeu plus amusant : en effet,
+ quand il les surprenait, cherchant à les effrayer pour qu'ils ne reviennent
+ plus, il les poursuivait en poussant de grands cris sauvages.
+\end_layout
+
+\end_body
+\end_document
