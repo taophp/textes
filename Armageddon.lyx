@@ -1,0 +1,344 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\begin_preamble
+\usepackage{titling}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{sectsty}
+\usepackage{tocloft}
+
+\renewcommand{\contentsname}{Liste des propositions}
+
+\renewcommand{\chaptername}{Proposition}
+\setcounter{chapter}{-1}
+
+\allsectionsfont{\singlespacing}
+\titleformat{\chapter}[display]{\normalfont\large\bfseries\singlespacing}{\chaptertitlename\ \thechapter}{20pt}{\large}
+\titleformat{\section}{\singlespacing\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\singlespacing\normalfont\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\singlespacing\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}} % for chapters
+\end_preamble
+\use_default_options true
+\begin_modules
+customHeadersFooters
+\end_modules
+\maintain_unincluded_children false
+\language french
+\language_package none
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing double
+\use_hyperref false
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+title{
+\end_layout
+
+\begin_layout Plain Layout
+
+Armageddon 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+large De l'Interprétation du Monde
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+Stéphane Mourey
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Ceci est une œuvre de fiction.
+\end_layout
+
+\begin_layout Paragraph*
+Note 0.1
+\end_layout
+
+\begin_layout Standard
+Ce texte commence par là, car il s'agit de la première chose que le lecteur
+ a à en apprendre.
+\end_layout
+
+\begin_layout Paragraph*
+Note 0.2
+\end_layout
+
+\begin_layout Standard
+Ce texte est constitué de propositions numérotées.
+ Chaque proposition est accompagnées de notes, également numérotées.
+ Les notes peuvent elles-mêmes être accompagnées de notes, encore une fois
+ numérotées.
+ La numérotation reprend et indique la hiérarchie.
+\end_layout
+
+\begin_layout Standard
+Ainsi, par exemple, la note 1.2 est la note 2 faite à la proposition 1.
+ Elle peut elle-même être annotée par la note 1.2.1.
+\end_layout
+
+\begin_layout Paragraph*
+Note 0.1.1
+\end_layout
+
+\begin_layout Standard
+Il y a une nécessité interne à cette réflexion qui mène son auteur à la
+ poser comme une œuvre de fiction.
+ Pour autant, comme elle se présente d'abord comme un traité de philosophie,
+ il était nécessaire, pour éviter tout malentendu, de rejeter d'emblée la
+ prétention à la vérité objective, propre aux traités philosophiques, rejet
+ dont la nécessité interne apparaîtra par la suite.
+\end_layout
+
+\begin_layout Paragraph*
+Note 0.2.1
+\end_layout
+
+\begin_layout Standard
+La succession des notes peut suivre un ordre qui ne respecte pas le cloisonnemen
+t attendu.
+ Cela tient à ce que l'ordre hiérarchique des notes ne correspond pas nécessaire
+ment ni à l'ordre de leur écriture, qui pourrait certes être corrigé, ni
+ à l'ordre souhaité de leur lecture, qui lui ne peut l'être.
+\end_layout
+
+\begin_layout Standard
+Par exemple, ici, la note 0.1.1 intervient après la note 0.2, alors que la
+ hiérarchie voudrait qu'elle intervienne immédiatement après la note 0.1.
+\end_layout
+
+\begin_layout Paragraph*
+Note 0.2.1.1
+\end_layout
+
+\begin_layout Standard
+Ce n'est pas parce que l'auteur suppose un ordre souhaité de lecture, que
+ le lecteur doit y voir un impératif.
+ Bien au contraire, l'auteur s'attend à ce qu'une lecture cordiale conduise
+ le lecteur à errer dans le texte, à relire certains passages plusieurs
+ fois, à passer vite ou s'attarder, jusqu'à y trouver son propre chemin.
+\end_layout
+
+\begin_layout Standard
+Pour autant, il faut bien que l'auteur s'imagine un certain chemin de lecture,
+ un certain enchaînement des propos qui lui paraît le plus propre à transmettre
+ le concept général qui préside à l'ouvrage, sans quoi il ne pourrait organiser
+ son écriture.
+\end_layout
+
+\begin_layout Chapter
+La Signification est l'étendue de l'Humanité.
+\end_layout
+
+\begin_layout Paragraph*
+Note 1.1
+\end_layout
+
+\begin_layout Standard
+Dans une version antérieure de ce texte, j'ai été tenté d'expliciter 
+\emph on
+étendue
+\emph default
+ en 
+\emph on
+l'espace, le temps et l'échelle
+\emph default
+.
+ Mon intention était alors de reprendre la description la plus exhaustive
+ et la plus contemporaine possible de l'espace selon les termes donnés par
+ la physique.
+ Par la suite, j'ai compris que, ce faisant, je donnais une compréhension
+ circonstanciée de l'espace, c'est-à-dire liée à la description que mon
+ époque est capable de faire de l'espace.
+ Pour autant, mon propos n'est pas lié à cette conception particulière.
+ J'en suis venu au mot d'
+\emph on
+étendue
+\emph default
+ car il rend bien la notion d'
+\emph on
+étalement
+\emph default
+ dans l'espace.
+ Car il faut bien au moins une dimension d'espace pour s'étendre ou s'étaler,
+ et ce quelque soit le nombre de dimensions que l'on se donne ou la conception
+ que l'on en développement.
+\end_layout
+
+\begin_layout Paragraph*
+Note 1.1.1
+\end_layout
+
+\begin_layout Standard
+L'une des merveilles du langage est que, bien que la signification des mots
+ varient selon les personnes qui les emploient, ils continuent de fonctionner
+ d'une façon telle qu'il est possible de se comprendre mais aussi de comprendre
+ certains aspects de notre relation au monde.
+\end_layout
+
+\begin_layout Standard
+Ainsi, lorsqu'à la note 1.1, j'évoquais les notions d'
+\emph on
+étendue
+\emph default
+ et d'
+\emph on
+espace
+\emph default
+, j'ai souligné qu'elles avaient évoluées et que la conscience que j'avais
+ de cette évolution avait présidé aux choix des mots utilisés pour élaborer
+ ma proposition.
+\end_layout
+
+\begin_layout Chapter
+Mon humanité s'étend par ma signifiance.
+\begin_inset Newline newline
+\end_inset
+
+Mon identité s'approfondit par ma signifiance.
+\end_layout
+
+\begin_layout Chapter
+L'étendu de l'Être déborde celle de la signification.
+\end_layout
+
+\begin_layout Paragraph*
+Note 3.1
+\end_layout
+
+\begin_layout Standard
+L'Être est premier dans l'ordre de l'existence pensée.
+\end_layout
+
+\begin_layout Paragraph*
+Note 3.1.1
+\end_layout
+
+\begin_layout Standard
+Je ne peux appréhender l'Être en tant qu'Être puisqu'il déborde la Signification
+, mais je peux l'appréhender en pensée comme étant au moins le lieu dans
+ lequel la Signification s'étend.
+ De là, l'Être est nécessairement premier dans l'ordre de l'existence pensée,
+ c'est-à-dire non de l'existence réelle de l'Être, qui déborde tout ce que
+ je peux en dire, mais de l'existence telle que je la pense ou telle que
+ je peux la penser.
+ Cela signifie que, pour penser le Monde, je présuppose l'existence de l'Être
+ d'abord, mais cela ne dit rien de lui, cela ne montre qu'une limitation
+ de la Signification.
+\end_layout
+
+\begin_layout Chapter
+L'étendue de la Signification déborde celle de ma signifiance.
+\end_layout
+
+\begin_layout Paragraph*
+Note 4.1
+\end_layout
+
+\begin_layout Standard
+La Signification précède toute signifiance dans l'ordre de l'existence pensée.
+\end_layout
+
+\end_body
+\end_document
