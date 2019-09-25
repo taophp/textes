@@ -1,0 +1,4 @@
+#!/bin/bash
+#lyx `basename \`pwd\``.lyx "L_Humanité_de_l_Histoire.lyx" &
+lyx *.lyx &
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+manuskript `basename \`pwd\``.msk &
+
