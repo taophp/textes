@@ -1,7 +1,9 @@
 #LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 479
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \begin_preamble
 \usepackage{lastpage}
@@ -231,16 +233,16 @@
 \language_package default
 \inputencoding utf8x
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter GNUTypewriter
-\font_math auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "GNUTypewriter"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc true
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 90
+\font_sf_scale 100 100
+\font_tt_scale 100 90
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -360,7 +362,7 @@ end{noheadnofoot}
 \end_layout
 
 \begin_layout Standard
--- Vous n'allez pas 
+— Vous n'allez pas 
 \emph on
 écrire
 \emph default
@@ -373,14 +375,14 @@ J'avais posé sur la table devant moi un bloc-note et un stylo.
 \end_layout
 
 \begin_layout Standard
--- Presque rien, dis-je, juste quelques mots lorsque je voudrai retenir
- un fait saillant.
+— Presque rien, dis-je, juste quelques mots lorsque je voudrai retenir un
+ fait saillant.
  Pour le reste, j'enregistrerai notre conversation, je ne la coucherai sur
  papier que plus tard.
 \end_layout
 
 \begin_layout Standard
--- Je vous en prie, dit-il, rangez cela.
+— Je vous en prie, dit-il, rangez cela.
 \end_layout
 
 \begin_layout Standard
@@ -389,18 +391,18 @@ Sa voix était ferme, mais il y avait dans son regard une supplique.
 \end_layout
 
 \begin_layout Standard
--- Je ne pourrai pas vous donner cette interview si ces choses-là sont étalées
+— Je ne pourrais pas vous donner cette interview si ces choses-là sont étalées
  devant moi.
 \end_layout
 
 \begin_layout Standard
--- Très bien, je comprends, dis-je en ramassant mon matériel pour le ranger
+— Très bien, je comprends, dis-je en ramassant mon matériel pour le ranger
  dans mon sac.
  Vous n'avez rien contre l'électronique ? Parce que si je dois tout retenir...
 \end_layout
 
 \begin_layout Standard
--- Non, ne vous inquiétez pas.
+— Non, ne vous inquiétez pas.
  Vous pouvez laisser votre enregistreur.
  Je ne crois pas...
 \end_layout
@@ -412,11 +414,11 @@ Il ne termina pas sa phrase.
 \end_layout
 
 \begin_layout Standard
--- Croyez-vous qu'ils nous observent ? demanda-t-il.
+— Croyez-vous qu'ils nous observent ? demanda-t-il.
 \end_layout
 
 \begin_layout Standard
--- Qui ?
+— Qui ?
 \end_layout
 
 \begin_layout Standard
@@ -426,7 +428,7 @@ Il tourna son visage vers moi.
 \end_layout
 
 \begin_layout Standard
--- Eux.
+— Eux.
 \end_layout
 
 \begin_layout Section*
@@ -447,7 +449,7 @@ C'est bien ma veine, pensai-je, je suis tombée sur un parano!
 \end_layout
 
 \begin_layout Standard
--- Vous me prenez pour un paranoïaque.
+— Vous me prenez pour un paranoïaque.
  Sans doute êtes-vous dans le vrai.
  Mais sachez que les raisons ne m'ont pas manquées de devenir ainsi.
  Par ailleurs, votre jouet qui fait pleurer ne vous sera d'aucune utilité
@@ -471,7 +473,7 @@ Il avait dit tout cela sans détourner les yeux de le fenêtre, toujours à
 \end_layout
 
 \begin_layout Standard
--- Cela ne vous dérange pas que je fume ? demandai-je.
+— Cela ne vous dérange pas que je fume ? demandai-je.
 \end_layout
 
 \begin_layout Section*
@@ -484,7 +486,7 @@ Sans me répondre, il s'approcha de la table, se servit dans mon paquet et
 \end_layout
 
 \begin_layout Standard
--- Merci, dit-il.
+— Merci, dit-il.
  D'ordinaire, je ne fume pas.
  Mais, disons que les circonstances sont exceptionnelles, n'est-ce pas ?
 \end_layout
@@ -495,7 +497,7 @@ Il retourna se placer devant la fenêtre.
 \end_layout
 
 \begin_layout Standard
--- Ce n'est pas tous les jours qu'on raconte sa vie à une journaliste de
+— Ce n'est pas tous les jours qu'on raconte sa vie à une journaliste de
  grand magazine.
 \end_layout
 
@@ -504,11 +506,11 @@ Il inhala une bouffée.
 \end_layout
 
 \begin_layout Standard
--- Ce n'est pas tous les jours qu'on s'apprête à mourir, poursuivit-il.
+— Ce n'est pas tous les jours qu'on s'apprête à mourir, poursuivit-il.
 \end_layout
 
 \begin_layout Standard
--- Qu'est-ce qui vous fait croire que vous allez mourir aujourd'hui ? Vous
+— Qu'est-ce qui vous fait croire que vous allez mourir aujourd'hui ? Vous
  avez prévu de vous suicider ? Quelqu'un doit-il vous assassiner cette nuit
  ?
 \end_layout
@@ -518,7 +520,7 @@ Il tira sur sa cigarette et, la regardant, reprit sans me répondre :
 \end_layout
 
 \begin_layout Standard
--- J'ai commencé quand j'étais gosse, comme tout le monde.
+— J'ai commencé quand j'étais gosse, comme tout le monde.
  On ne parlait pas beaucoup de la Zone par chez nous à cette époque.
  Bien sûr, nous savions qu'elle existait et qu'elle s'étendait de jour en
  jour.
@@ -533,7 +535,7 @@ Il se tourna vers moi, m'adressant un sourire en coin :
 \end_layout
 
 \begin_layout Standard
--- Ça les aurait tués.
+— Ça les aurait tués.
 \end_layout
 
 \begin_layout Standard
@@ -564,7 +566,7 @@ Oui, poursuivit-il, à l'époque, la Zone était comme un bruit de fond inquiét
 \end_layout
 
 \begin_layout Standard
-On nous expliqua qu'il s'agissait d'un réfugié.
+Madame Blanc, notre institutrice, nous expliqua qu'il s'agissait d'un réfugié.
  À des centaines de kilomètres d'ici, peut-être des milliers, sa maison
  avait été engloutie par la Zone.
  Le Gouvernement, dans sa grande bonté, avait trouvé un nouveau logement
@@ -582,7 +584,7 @@ Lors de la récréation qui suivit, Matt s'accroupit, dos contre un mur, le
 \end_layout
 
 \begin_layout Standard
--- Eh ! Le nouveau ! C'est vrai que t'es un artefact ? C'est vrai que tu
+— Eh ! Le nouveau ! C'est vrai que t'es un artefact ? C'est vrai que tu
  viens de la Zone ? Comment qu'c'est ?
 \end_layout
 
@@ -600,12 +602,12 @@ Matt, qui avait la tête baissée, répondit sans bouger :
 \end_layout
 
 \begin_layout Standard
--- Si j'étais un artefact, je serais déjà mort.
+— Si j'étais un artefact, je serais déjà mort.
  Laisse-moi tranquille.
 \end_layout
 
 \begin_layout Standard
--- Ben, j'en sais rien moi.
+— Ben, j'en sais rien moi.
  Paraît qu'ils sont exactement comme nous et que, quand on sait pas, on
  peut pas les reconnaître.
  Paraît qu'il y en a qui parviennent à se mêler à nous et qu'on les attrape
@@ -619,7 +621,7 @@ Matt releva la tête et, jetant un regard assassin à Rodolphe, lui répondit
 \end_layout
 
 \begin_layout Standard
--- Ouep.
+— Ouep.
  Et c'est pour ça que c'est une assistante sociale qui m'a amené ce matin.
  T'es vraiment débile !
 \end_layout
@@ -636,8 +638,8 @@ Sentant qu'il avait pris l'avantage, il insista :
 \end_layout
 
 \begin_layout Standard
--- Et toi, qu'est-ce qui me dit que t'es pas un mutant ? Tu sais ce que
- c'est, un mutant ? C'est quelqu'un de normal au début, comme toi et moi.
+— Et toi, qu'est-ce qui me dit que t'es pas un mutant ? Tu sais ce que c'est,
+ un mutant ? C'est quelqu'un de normal au début, comme toi et moi.
  Et puis, il se transforme petit à petit en artefact.
  Alors, qu'est-ce qui me prouve que t'en es pas un ?
 \end_layout
@@ -647,7 +649,7 @@ Rodolphe lui sourit avant d'éclater de rire.
 \end_layout
 
 \begin_layout Standard
--- Tu m'plais bien.
+— Tu m'plais bien.
  Bienvenue au club.
 \end_layout
 
@@ -682,15 +684,17 @@ Rodolphe avait été à l'initiative de cette société.
  Mais, à l'époque, dans notre petite bande, nous l'avions tous lu, et j'en
  ai un souvenir coloré.
  Rodolphe était le premier à l'avoir lu.
- Un cadeau de son père pour Noël, je crois.
+ Il n'y pavait déjà plus beaucoup de livres mais Rodolphe en avait trouvé
+ quelques uns, oubliés dans une malle de son grenier.
+ Parmi eux, il y avait celui-là.
  À peine l'avait-il commencé que, quelques jours plus tard, il ne parlait
  plus que de ça.
  Au début, il nous barbait.
  Mais il avait un ascendant sur nous tous et il était un peu le chef de
  notre groupe, même s'il s'en défendait.
- Aussi l'écoutions nous avec patience.
+ Alors, l'écoutions nous avec patience.
  Puis, progressivement, nous nous sommes pris au jeu.
- Aussi, lorsqu'il nous proposa de fonder notre propre compagnie ?du truc?,
+ Aussi, lorsqu'il nous proposa de fonder notre propre Compagnie ?du truc?,
  nous étions tous étonnés de ne pas en avoir eu l'idée plus tôt tant elle
  était évidente.
 \end_layout
@@ -701,8 +705,8 @@ I.2.4 Le Wirhel
 
 \begin_layout Standard
 La moitié d'entre nous vivions dans une cité populaire, heureusement de
- petite dimension, faites de quelques barres et blocs, n'ayant jamais plus
- de dix étages.
+ petites dimensions, faites de quelques barres et blocs, n'ayant jamais
+ plus de dix étages.
  Elle faisait face à un quartier résidentiel plus ancien du côté duquel
  se situaient l'école et le collège.
  Les deux quartiers, séparés par la rue principale, étaient situés au bord
@@ -714,8 +718,7 @@ La moitié d'entre nous vivions dans une cité populaire, heureusement de
 La Compagnie ?du truc? se réunissait ainsi au fin fond de la forêt dans
  une cabane.
  Nous l'avions construite nous-mêmes, et nous n'en étions pas peu fiers.
- Son emplacement était tenu.
- secret, révélé seulement aux membres de la Compagnie.
+ Son emplacement était tenu secret, révélé seulement aux membres de la Compagnie.
 \end_layout
 
 \begin_layout Section*
@@ -740,8 +743,8 @@ Ainsi, Matt fut convié à notre réunion suivante.
 \end_layout
 
 \begin_layout Standard
--- Avance devant nous étranger, dit Rodolphe de la voix qu'il donnait à
- son personnage, essayant de la faire grave et forte.
+— Avance devant nous étranger, dit Rodolphe de la voix qu'il donnait à son
+ personnage, essayant de la faire grave et forte.
 \end_layout
 
 \begin_layout Standard
@@ -749,9 +752,9 @@ Matt se faufila entre nous jusqu'à se trouver au centre du cercle.
 \end_layout
 
 \begin_layout Standard
--- Je suis Zoraste, l'un des fondateurs de cette compagnie.
+— Je suis Zoraste, l'un des fondateurs de cette compagnie.
  Je n'en suis pas le chef, nous n'en avons pas.
- Je suis seulement celui qui tient le bâti de parole.
+ Je suis seulement celui qui tient le bâton de parole.
  Comme je suis bavard, je le tiens peut-être plus souvent que je ne devrais.
 \end_layout
 
@@ -760,20 +763,20 @@ Il y eut un grognement d'approbation parmi nous.
 \end_layout
 
 \begin_layout Standard
--- On dit, reprit-il, que souhaites rejoindre notre compagnie.
+— On dit, reprit-il, que tu souhaites rejoindre notre compagnie.
  Est-ce vrai ?
 \end_layout
 
 \begin_layout Standard
--- Oui.
+— Oui.
 \end_layout
 
 \begin_layout Standard
--- Sais-tu ce que cela implique ?
+— Sais-tu ce que cela implique ?
 \end_layout
 
 \begin_layout Standard
--- Oui.
+— Oui.
  Triompher de l'épreuve du courage.
  Taire les secrets de la Compagnie.
  Accepter le nom que vous m'aurez choisi.
@@ -785,16 +788,16 @@ Il y eut un grognement d'approbation parmi nous.
 \end_layout
 
 \begin_layout Standard
--- C'est à peu près cela.
+— C'est à peu près cela.
  T'en sens-tu capable ? T'en penses-tu digne ? Te sens-tu prêt ?
 \end_layout
 
 \begin_layout Standard
--- Oui.
+— Oui.
 \end_layout
 
 \begin_layout Standard
--- Très bien.
+— Très bien.
  Nous allons te mener tout de suite au lieu de ton épreuve.
  
 \end_layout
@@ -808,27 +811,30 @@ La nuit allait bientôt tomber.
  Nous bandâmes à nouveau les yeux de Matt pour qu'il ne puisse situer notre
  cabane.
  Nous marchions dans le crépuscule et les sous-bois prenaient déjà des airs
- menaçants dans notre regard d'enfant.
+ menaçants à notre regard d'enfant.
  Après quelques minutes, nous arrivâmes à l'endroit voulu : une clairière
- dont un des côtés était bordé par une minuscule falaise du côté en face
- de nous.
+ dont l'un des côtés était bordé par une minuscule falaise nous faisant
+ face.
 \end_layout
 
 \begin_layout Standard
--- As-tu entendu parler du Morgrok ? demanda Rodolphe.
-\end_layout
+— As-tu entendu parler du Morgrok ? demanda Rodolphe.
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
 À ce nom, il eut un murmure terrifié parmi nous.
 \end_layout
 
 \begin_layout Standard
--- Non.
- Rodolphe le regarda en prenant une expression sadique.
+— Non.
+\begin_inset Newline newline
+\end_inset
+
+Rodolphe le regarda en prenant une expression sadique.
 \end_layout
 
 \begin_layout Standard
--- Le Morgrok est une créature mi-homme, mi-bête.
+— Le Morgrok est une créature mi-homme, mi-bête.
  On dit que sa mère, une sorcière, s'est accouplée avec un loup.
  D'autres parlent d'un ours ou d'un lion.
  Pour ma part, je penche pour un chacal.
@@ -850,17 +856,64 @@ Rodolphe avait beau employer un langage plus soutenu que celui auquel nous
 \end_layout
 
 \begin_layout Standard
--- Tu blagues, là ? demanda-t-il, pas rassuré.
+— Tu blagues, là ? demanda-t-il, pas rassuré.
+\begin_inset Newline newline
+\end_inset
+
+Rodolphe se tourna vers lui en affectant une expression courroucée.
 \end_layout
 
 \begin_layout Standard
-Rodolphe se tourna vers lui en affectant une expression courroucée.
- -- Ne prend pas Zorastre pour un ridicule magicien de foire ! Il t'en coûterait
+— Ne prend pas Zorastre pour un ridicule magicien de foire ! Il t'en coûterait
  peut-être plus que la vie !
 \end_layout
 
 \begin_layout Section*
-I.2.8 La réalité du Morgrok
+I.2.7 Description de l'épreuve
+\end_layout
+
+\begin_layout Standard
+— Pardonne-moi, Zorastre, pardonne mon impudence, se reprit Matt.
+ Tu ne m'y reprendras pas.
+ Parle, je t'écoute avec respect.
+\end_layout
+
+\begin_layout Standard
+Rodolphe eut un sourire de satisfaction.
+\end_layout
+
+\begin_layout Standard
+— Maintenant, sois attentif.
+ Le Morgrok s'est installé dans une grotte dont l'entrée se trouve derrière
+ ce bouqet d'arbres.
+ Étant à moitié humain, il s'est aménagé un antre presque confortable.
+ Voici maintenant ton épreuve : tu y entrer et nous et voler un objet.
+ N'importe quoi.
+ Une cuillière, un vêtement, une casserole, ce que tu voudras.
+ Bien sûr, tu risques de te faire attraper.
+ Si le Morgrok te trouve, il te bouffras tout cru.
+ T'auras encore de la chance s'il te fait cuire avant.
+\end_layout
+
+\begin_layout Standard
+Rodolphe marqua une pause, laissant à Matt le temps d'apprécier la situation.
+\end_layout
+
+\begin_layout Standard
+— Tu peux changer d'avis.
+\end_layout
+
+\begin_layout Standard
+— Non, dit Matt.
+ Je suis prêt.
+\end_layout
+
+\begin_layout Standard
+— Alors, vas-y.
+\end_layout
+
+\begin_layout Section*
+I.2.8 Première approche de l'antre du Morgrok
 \end_layout
 
 \begin_layout Standard
@@ -879,8 +932,63 @@ Il fit preuve d'une certaine intelligence en ne se précipitant pas d'emblée
  du repère de la bête.
  Il resta alors là un bon moment sans bouger, ni faire un bruit, observant.
  Au cours de son périple, il avait ramassé une branche un peu lourde.
- Il la lança brusquement vers des arbres assez éloignés, ce qui fit un grand
- fracas.
+ Il la lança brusquement vers des arbres assez éloignés de lui, ce qui fit
+ un grand fracas.
+\end_layout
+
+\begin_layout Section*
+I.2.9 Dans l'antre du Morgrok
+\end_layout
+
+\begin_layout Standard
+Rien ne bougea.
+ Matt fit alors d'autres tentatives.
+ Le but de la manoeuvre était de faire sortir le Morgrok de chez lui.
+ À la fin, Matt fut convaincu que la voie était libre et il s'engagea prudemment
+ derrière le bosquet.
+ Il échappait alors à nos regards.
+ Nous attendions, le souffle coupé, qu'il ressorte de l'antre avec quelque
+ trésor.
+ Ce fut le moment que le Morgrok choisit pour rentrer chez lui.
+ Aucun de nous ne l'entendit venir.
+ Nous nous étions heureusement cachés dans d'épais fourrés et l'obscurité
+ avait déjà envahi le sous-bois.
+ Mais je faillis pousser un cri lorsque je le vis passer à moinds de deux
+ mètres de moi.
+ Rodophe et les autres le virent en même temps.
+ Nous échangeames un regard.
+ Nous pensions la même chose : lorsque Matt reviendrait vers nous, il tomberait
+ face à face avec le Morgrok.
+ Et là, qu'allait-il se passer ?
+\end_layout
+
+\begin_layout Standard
+En réalité, nous savions bien que le Morgrok était un être humain ordinaire.
+ La raison pour laquelle il avait décidé d'établir ses quartiers au fond
+ de la forêt nous étaient inconnues.
+ Nous savions seulement qu'il tenait à rester seul, car il n'appréciait
+ pas que nous approchions.
+ Nous l'avions découvert par hazard, alors que nous explorions la forêt
+ à la recherche d'un bon emplacement pour notre cabane.
+ À chaque fois qu'il nous voyait, il se faisait le plus effrayant possible,
+ courant après nous en hurlant.
+\end_layout
+
+\begin_layout Section*
+I.2.10 Matt réussit l'épreuve
+\end_layout
+
+\begin_layout Standard
+Le Morgrok arrivait au bosquet, et Matt ne s'était toujours pas montré.
+ Nous étions terrifiés pour lui, mais ne savions que faire.
+ C'est alors que Théo eut une idée.
+\end_layout
+
+\begin_layout Standard
+Il ramassa à côté de lui une branche et la lança aussi loin qu'il put dans
+ les sous-bois.
+ Le fracas de la chute attira l'attention du Morgrok.
+ Il se retourna et courut au centre de la clairière.
 \end_layout
 
 \begin_layout Section*
@@ -951,7 +1059,7 @@ Je ne crois pas qu'elle faisait alors partie des Bibliophiles, mais j'ai
  me faudrait procéder à son arrestation.
  Trop souvent, ceux qui critiquent les Brigades nous reprochent notre indifféren
 ce, voire notre inhumanité.
- Je ne nierai pas qu'il y a aussi des salauds -- mais quoi de plus humain
+ Je ne nierai pas qu'il y a aussi des salauds – mais quoi de plus humain
  que la saloperie ? En tous cas, je peux vous dire que nombre d'entre nous
  font ce qu'ils croient être leur devoir, et qu'ils le font souvent la mort
  dans l'âme.
@@ -1121,7 +1229,7 @@ Face à ses gens-là, je me sentis terriblement provincial.
 \end_layout
 
 \begin_layout Standard
--- Salut, dit-il.
+– Salut, dit-il.
  Toi aussi, c'est ton premier cours ?
 \end_layout
 
@@ -1135,17 +1243,17 @@ Je compris tout de suite qu'il partageait le même embarras que moi.
 \end_layout
 
 \begin_layout Standard
--- Oui, répondis-je.
+– Oui, répondis-je.
  C'est mon premier jour et je ne connais personne ici.
 \end_layout
 
 \begin_layout Standard
--- Pareil pour moi.
+– Pareil pour moi.
  Je m'appelle Victor, me dit-il en me tendant la main.
 \end_layout
 
 \begin_layout Standard
--- Raphaël.
+– Raphaël.
  Tu peux m'appeler Ralph.
 \end_layout
 
@@ -1453,7 +1561,7 @@ J'ignorais donc tout de ce volume, mais la conscience du risque que j'avais
  pris mêlée au plaisir de la transgression m'enivrait et quelques unes de
  mes réactions surprirent mes collègues durant le restant de la journée.
  J'expliquais cela en le mettant sur le compte de l'émotion que j'avais
- ressentie en reconnaissant mon ancienne institutrice -- ce qui d'ailleurs
+ ressentie en reconnaissant mon ancienne institutrice – ce qui d'ailleurs
  n'était pas faux.
  Je pense même que l'impulsion de dérober ce livre trouvait là sa cause.
  Le reste de la journée passa tant bien que mal.
@@ -2364,7 +2472,7 @@ Je rêvais.
 
 \begin_layout Standard
 Je marchais sur une bande de sable un peu vaseuse.
- Il me devint difficile de lever les pieds, de plus en plus -- jusqu'à ce
+ Il me devint difficile de lever les pieds, de plus en plus – jusqu'à ce
  que je me sente piégé, que mon pied soit pris par le sable jusqu'à la cheville
  et que je ne parvienne plus à le retirer.
  J'essayais de m'appuyer plus fortement sur l'autre que j'avais posé un
