@@ -1,7 +1,9 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 479
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \begin_preamble
 \usepackage{lastpage}
@@ -191,16 +193,18 @@
 \language_package default
 \inputencoding utf8x
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter GNUTypewriter
-\font_math auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "GNUTypewriter"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc true
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 90
+\font_sf_scale 100 100
+\font_tt_scale 100 90
+\use_microtype false
+\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -230,6 +234,7 @@
 \suppress_date true
 \justification true
 \use_refstyle 1
+\use_minted 0
 \notefontcolor #323232
 \index Index
 \shortcut idx
@@ -248,7 +253,10 @@
 \tocdepth 5
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language french
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style swiss
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle fancy
@@ -572,7 +580,14 @@ Quand enfin arriva l'âge pour le Morgrok de rejoindre les rangs d'une grande
 \end_layout
 
 \begin_layout Standard
-"MoOOooOorRRrgrRrroOOoOOooOKk" était devenu le cri de guerre de ses compagnons.
+\begin_inset Quotes cld
+\end_inset
+
+MoOOooOorRRrgrRrroOOoOOooOKk
+\begin_inset Quotes crd
+\end_inset
+
+ était devenu le cri de guerre de ses compagnons.
  Lorsqu'ils le faisaient retentir au début de chaque bataille, avec vibratos
  et trémolos là où il fallait, les troupes ennemies reculaient presque de
  terreur.
