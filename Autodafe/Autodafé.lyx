@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -221,6 +221,9 @@
 \makeatletter
 \@addtoreset{section}{part}
 \makeatother
+% Added by lyx2lyx
+\renewcommand{\textendash}{--}
+\renewcommand{\textemdash}{---}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -243,8 +246,6 @@ End
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 90
-\use_microtype false
-\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -274,7 +275,6 @@ End
 \suppress_date true
 \justification true
 \use_refstyle 1
-\use_minted 0
 \notefontcolor #323232
 \index Index
 \shortcut idx
@@ -293,10 +293,7 @@ End
 \tocdepth 5
 \paragraph_separation indent
 \paragraph_indentation default
-\is_math_indent 0
-\math_numbering_side default
-\quotes_style swiss
-\dynamic_quotes 0
+\quotes_language french
 \papercolumns 1
 \papersides 1
 \paperpagestyle fancy
@@ -442,11 +439,11 @@ Il tourna son visage vers moi.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 C'est bien ma veine, pensai-je, je suis tombée sur un parano!
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
  Et, tandis que je rangeai mon bloc-notes et mon stylo, je vérifiai que
@@ -664,7 +661,7 @@ Et il lui tendit la main.
 \end_layout
 
 \begin_layout Section*
-I.2.2 La Compagnie du ?truc?
+I.2.2 La Confrêrie du Cratère
 \end_layout
 
 \begin_layout Standard
@@ -673,7 +670,7 @@ J'étais estomaqué.
  mais moi, oui.
  Un adulte qui aurait eu vent de l'existence de cette compagnie n'y aurait
  vu qu'une bande de copains portés sur les histoires d'elfes et de gobelins.
- Mais, pour nous, à cette époque, la compagnie du ?truc? était une véritable
+ Mais, pour nous, à cette époque, la Confrêrie du Cratère était une véritable
  société secrète, avec ses rites et ses serments, ses signes de reconnaissance
  et ses traditions.
 \end_layout
@@ -700,7 +697,7 @@ Rodolphe avait été à l'initiative de cette société.
  notre groupe, même s'il s'en défendait.
  Alors, l'écoutions nous avec patience.
  Puis, progressivement, nous nous sommes pris au jeu.
- Aussi, lorsqu'il nous proposa de fonder notre propre Compagnie ?du truc?,
+ Aussi, lorsqu'il nous proposa de fonder notre propre Confrêrie du Cratère,
  nous étions tous étonnés de ne pas en avoir eu l'idée plus tôt tant elle
  était évidente.
 \end_layout
@@ -721,7 +718,7 @@ La moitié d'entre nous vivions dans une cité populaire, heureusement de
 \end_layout
 
 \begin_layout Standard
-La Compagnie ?du truc? se réunissait ainsi au fin fond de la forêt dans
+La Confrêrie du Cratère se réunissait ainsi au fin fond de la forêt dans
  une cabane.
  Nous l'avions construite nous-mêmes, et nous n'en étions pas peu fiers.
  Son emplacement était tenu secret, révélé seulement aux membres de la Compagnie.
@@ -1340,11 +1337,11 @@ J'entendis un cri.
  Je ne sais comment elle s'y était prise, mais la cible avait réussi à glisser
  entre les doigts des collègues.
  Ma radio, intégrée à mon casque, quelqu'un dit : 
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Gaffe, gamin, elle vient vers toi !
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -1359,11 +1356,11 @@ Effectivement, j'entendis au-dessus de moi, des pas précipités dans l'escalier
 
 \begin_layout Standard
 Lorsque je vis arriver la femme, je criai : 
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Arrêtez-vous ou je tire !
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
  Elle s'immobilisa devant moi, releva la tête et écarta ses mèches grises
@@ -1390,11 +1387,11 @@ III.2
 J'entendis à nouveau des pas lourds et rapides dans la structure métallique
  au-dessus de moi.
  Une voix cracha dans mon casque : 
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Ralph ! Qu'est-ce que tu fous !
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
  Ce n'était pas une question, mais un rappel à l'ordre.
@@ -1451,12 +1448,12 @@ Big O, comme nous l'appelions, notre lieutenant, celui qui avait hurlé sa
 
 \begin_layout Standard
 Puis il s'arrêta brusquement et dit : 
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Cela ne mène à rien.
  Il faut s'y prendre autrement.
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -1471,11 +1468,11 @@ ent qui nous avait permis de préparer l'opération.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Il manque une pièce ! Une petite, mais cela ne fait pas de doute !
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -1486,12 +1483,12 @@ Il se rendit dans les toilettes.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Le plan indique des chiottes bien plus grandes, assez pour une chaise roulante.
  Là, on peut à peine se retourner.
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -1511,12 +1508,12 @@ Big O sonda ainsi tous les murs de la petite pièce, terminant par celui
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 C'est astucieux.
  Ils ont déplacé la tuyauterie pour la mettre devant leur planque.
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -1534,11 +1531,11 @@ Il recula autant qu'il le put et donna un grand coup de pied.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Il doit y en avoir des milliers !
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -2166,11 +2163,11 @@ normalsize
 \end_layout
 
 \begin_layout Quotation
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Laisse les morts enterrer leurs morts.
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -2368,11 +2365,11 @@ Aussitôt, je fus ramené à ma triste réalité.
  J'avais le sentiment d'être un imbécile.
  J'étais à nouveau perdu, à peine la première ligne s'était-elle éclairée.
  
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 L'unification achevée
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 .
@@ -2722,11 +2719,11 @@ normalsize
 \end_layout
 
 \begin_layout Quotation
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Laisse les morts enterrer leurs morts.
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -2975,11 +2972,11 @@ Soudain, un nouveau plan apparut à l'image, sans raccord.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Chers amis...
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
  furent ses premiers mots.
@@ -2990,7 +2987,7 @@ III.17
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Chers amis...
@@ -2998,7 +2995,7 @@ Chers amis...
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Me voici une nouvelle fois devant vous.
@@ -3009,7 +3006,7 @@ Me voici une nouvelle fois devant vous.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
  Car, enfin, nous touchons au but ! Si l'Ennemi n'est pas encore abattu,
@@ -3024,7 +3021,7 @@ Me voici une nouvelle fois devant vous.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
  L'ennemi intérieur, également, recule.
@@ -3036,7 +3033,7 @@ Me voici une nouvelle fois devant vous.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Mes amis, je suis venu ici, aujourd'hui, devant vous, pour vous annoncer
@@ -3046,7 +3043,7 @@ Mes amis, je suis venu ici, aujourd'hui, devant vous, pour vous annoncer
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Nous pouvons espérer exterminer les Bibliophiles, cette humanité corrompue
@@ -3054,7 +3051,7 @@ Nous pouvons espérer exterminer les Bibliophiles, cette humanité corrompue
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Nous pouvons espérer brûler tous les livres qui, encore dissimulés dans
@@ -3063,7 +3060,7 @@ Nous pouvons espérer brûler tous les livres qui, encore dissimulés dans
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Nous pouvons espérer, enfin, bientôt, lancer l'ultime assaut contre la Zone,
@@ -3071,7 +3068,7 @@ Nous pouvons espérer, enfin, bientôt, lancer l'ultime assaut contre la Zone,
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Oui, bientôt viendra ce jour où l’œuvre de Satan et Satan lui-même seront
@@ -3082,11 +3079,11 @@ Oui, bientôt viendra ce jour où l’œuvre de Satan et Satan lui-même seront
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Maintenant, agenouillons-nous pour une prière.
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -3111,11 +3108,11 @@ J'ai toujours été un partisan docile de l'Inquisition et j'avais adopté
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes cld
+\begin_inset Quotes fld
 \end_inset
 
 Il raconte des histoires
-\begin_inset Quotes crd
+\begin_inset Quotes frd
 \end_inset
 
 , pensai-je.
