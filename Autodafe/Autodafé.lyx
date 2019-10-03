@@ -12,6 +12,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{rotating}
 \usepackage{soul}
+\usepackage{fontspec}
 %\usepackage[pdftex,dvipsnames]{xcolor} 
 \usepackage[colorinlistoftodos,prependcaption,textsize=tiny]{todonotes} %see https://tex.stackexchange.com/questions/9796/how-to-add-todo-notes
 \usepackage{graphicx}
@@ -224,6 +225,8 @@
 % Added by lyx2lyx
 \renewcommand{\textendash}{--}
 \renewcommand{\textemdash}{---}
+
+\newfontfamily\essays[]{Essays1743}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -1657,6 +1660,20 @@ status open
 
 
 \backslash
+begingroup
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+essays
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
 begin{myfreepage}
 \end_layout
 
@@ -1693,6 +1710,7 @@ begin{Huge}
 \end_layout
 
 \begin_layout Standard
+\align center
 L'Humanité de l'Histoire
 \end_layout
 
@@ -1736,6 +1754,7 @@ begin{Large}
 \end_layout
 
 \begin_layout Standard
+\align center
 Gédéon
 \end_layout
 
@@ -1775,6 +1794,7 @@ end{Large}
 \end_layout
 
 \begin_layout Standard
+\align center
 Éditions de la Zone
 \end_layout
 
@@ -1787,6 +1807,13 @@ status open
 
 \backslash
 end{myfreepage}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+endgroup
 \end_layout
 
 \end_inset
@@ -1875,6 +1902,20 @@ status open
 
 \backslash
 cleartoleftpage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begingroup
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+essays
 \end_layout
 
 \begin_layout Plain Layout
@@ -1987,6 +2028,13 @@ end{noheadnofoot}
 
 
 \backslash
+endgroup
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
 setcounter{page}{
 \backslash
 thesavepage}
@@ -2084,6 +2132,20 @@ thepage}
 \begin_layout Standard
 \begin_inset ERT
 status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begingroup
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+essays
+\end_layout
 
 \begin_layout Plain Layout
 
@@ -2343,6 +2405,13 @@ status open
 
 \backslash
 end{justpagenumberonside}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+endgroup
 \end_layout
 
 \begin_layout Plain Layout
@@ -2645,6 +2714,20 @@ status open
 
 
 \backslash
+begingroup
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+essays
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
 begin{justpagenumberonside}{R}{9}{19}
 \end_layout
 
@@ -2902,6 +2985,13 @@ status open
 
 \backslash
 end{justpagenumberonside}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+endgroup
 \end_layout
 
 \begin_layout Plain Layout
