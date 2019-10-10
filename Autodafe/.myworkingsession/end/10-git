@@ -11,4 +11,5 @@ function not_a_git_repository()
 trap 'not_a_git_repository $? ' ERR
 git add -A
 git commit -m "Autocommit before work"
+git push
 
