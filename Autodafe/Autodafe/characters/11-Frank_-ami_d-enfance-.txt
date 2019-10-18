@@ -1,0 +1,5 @@
+Name:                Frank (ami d'enfance)
+ID:                  11
+Importance:          0
+Epiphany:            9 d'Atout droit - L'Ermite : Corruption, trahison, sournoiserie
+Color:               #8ee1b0

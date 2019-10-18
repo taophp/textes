@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <plot name="Sarah et l'Artefact" ID="0" importance="1" characters="7,9,3" description="A la suite de la lecture d'un roman passionant, Sarah s'éprend en imagination du personnage principal. Progressivement, celui-ci va prendre de plus en plus de place dans son imaginaire, elle finit par le rencontrer en rêve, confondre le rêve et la réalité, puis il va se matérialiser réellement sous la forme de l'Artéfact.&#10;Ralph, récent amant de Sarah, essaie de s'opposer à cet idylle, sans succès." result="Sarah et l'Artefact disparaîtront tout deux dans la Zone, laissant Ralph, amant éconduit de Sarah, désespérés et en deuil."/>
+  <plot name="Jeunesse" ID="1" importance="2" characters="3,0,5,6,10,11" description="Dans la classe de Ralph arrive un réfugié fuyant l'extension de la Zone. Il va rejoindre la Confrérie du Cratère, mais la Mutation va s'emparer de lui et il va fuiir dans le repère abandonné du Morgrok." result="Il va finir par prendre feu."/>
+</root>

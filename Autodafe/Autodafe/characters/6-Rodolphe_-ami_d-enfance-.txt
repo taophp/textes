@@ -1,0 +1,5 @@
+Name:                Rodolphe (ami d'enfance)
+ID:                  6
+Importance:          1
+Epiphany:            14 d'Atout renversé: la Tempérance : compétition, désunion, mauvaise fortune
+Color:               #a2afa0

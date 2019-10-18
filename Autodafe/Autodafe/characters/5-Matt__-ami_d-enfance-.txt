@@ -1,0 +1,6 @@
+Name:                Matt  (ami d'enfance)
+ID:                  5
+Importance:          1
+Epiphany:            8 de Coupe droite : Modestie, joie, honneur
+Phrase Summary:      Gamin réfugié de la Zone
+Color:               #9a8ece

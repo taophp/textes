@@ -1,0 +1,8 @@
+Name:                Naratrice de l'introduction
+ID:                  2
+Importance:          0
+Epiphany:            Reine de Pentacle renversée : Peur, méfiance, suspicion
+Phrase Summary:      Journaliste
+Notes:               Fumeuse
+                     Elle a une bombe lacrymo dans son sac à main
+Color:               #dfa79e

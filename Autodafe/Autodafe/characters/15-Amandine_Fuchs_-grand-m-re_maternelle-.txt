@@ -1,0 +1,6 @@
+Name:                Amandine Fuchs (grand-mère maternelle)
+ID:                  15
+Importance:          0
+Phrase Summary:      3 d'Atout, l'Impératrice droite: fécondité, initiative, clandestin.
+Color:               #ffaaff
+Mère de:             Alice Daunais

@@ -1,0 +1,5 @@
+Name:                L'Artefact (amant imaginaire de Sarah)
+ID:                  9
+Importance:          1
+Epiphany:            8 de Coupe renversée : grande joie, festin
+Color:               #b8e5ad

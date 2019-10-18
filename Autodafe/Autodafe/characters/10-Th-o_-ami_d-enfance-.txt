@@ -1,0 +1,5 @@
+Name:                Théo (ami d'enfance)
+ID:                  10
+Importance:          0
+Epiphany:            6 d'Atout renversé : les Amoureux : Action stupide, échec
+Color:               #a9dfc1

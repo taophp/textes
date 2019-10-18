@@ -1,0 +1,35 @@
+Name:                Ralph (Raphaël Daunais)
+ID:                  3
+Importance:          2
+Motivation:          Roi d'épée droit : Loi, intelligence, autorité
+                     
+                     Raphaël est quelqu'un qui aspire à une vie paisible classique, naïve, peut-être un peu kitch : une femme, des enfans, un pavillon. Il estime que pour qu'elle soit possible, la Loi et l'Ordre doivent être respectés, et il est prêt à faire le nécessaire pour y parvenir : cela expliquera son entrée en faculté de droit et son engagement dans la Police. Il faut noter que son goût de l'ordre ne motive pas un recours à la violence lorsqu'il est confronté à un opposant. Il préféra toujours le dialogue et le recours à la violence n'est pour lui possible que lorsque l'opposition devient dangeureuse, immaitrisable, irrationnelle. Lorsque cela se produit, il le fait sans joie et triomphe sans gloire.
+Goal:                8 de pentacle droit : Compétence, artisanat, emploi
+                     
+                     Concrêtement, ce désir d'ordre et de paix se traduit par son engagement dans la Police, où  il tâche d'exercer les tâches qui lui sont confiées avec zèle et compétence. Cette même attitude, mais bien plus désabusée, se retrouve lorsqu'il est recruté par les services secrets.
+                     
+                     Enfant, il a un attitude de respect et d'affection face aux figures de l'autorité (institutrice, parents, mais aussi Rodolphe). Il tâchera toujours de leur plaire. Lorsqu'un conflit survient entre l'autorité et lui-même, il se plie le plus souvent. Mais lorsqu'un conflit survient entre l'autorité et une autre personne, quelle qu'elle soit, et surtout si l'autorité lui paraît se tromper, il prend la position de médiateur, et travaille à résoudre le problème sans violence.
+Conflict:            Reine d'épée renversée : Tromperie, fanatisme, malice
+                     
+                     Les obstacles à sa rréussite sont :
+                     
+                     * les manoeuvres de ses concurrents qui visent également à plaire à l'autorité pour en tirer le bénéfice et sans considération morale, en particulier quand ils le contraingnent à assumer des actions qu'il réprouve (l'assassinat de Madame Blanc),
+                     * la trahison de l'autorité : difficile pour lui de persévérer dans son désir de plaire à l'autoritié concrête lorsqu'il perçoit que celle-ci s'exerce par une violence injustifiée (répression des manifestations étudiante)
+Epiphany:            Cavalier d'épée droite : Destruction, défense, ruine, colère
+                     
+                     Raphaël souffre de ses différentes expériences, que ce soit dans ses relations avec la Zone ou avec l'Inquisition. Ces amis, ses proches, la femme de sa vie sont brisés, disparus ou exécutés.
+                     Par ailleurs, lorsqu'il découvre la vérité sur le Grand Inquisiteur, il a le sentiement que tout cela a eu lieu en vain, qu'il n'y a là que du gâchis.
+                     Il en ressort avec un sentiment de désespoir et de colère
+Phrase Summary:      19 d'Atout, Soleil renversé : Vitalité, liberté, joie
+                     
+                     Pris dans le conflit entre la Zone et à l'Inquisition, Raphaël tente de trouver sa place et de préserver ses proches en prenant parti pour l'Inquisition, jusqu'à se retrouver seul, et de lancer à corps perdu à la recherche de la vérité.
+Notes:               Fumeur
+                     
+                     Son père: 5 de Pentacle renversé: Chaos, désordre, ruine
+                     Sa mère: Reine d'Épée droite: Deuil séparation, absence
+                     
+                     Sa mère, Alice Daunais est décédée en lui dans les jours qui ont suivi son accouchement. Il ne l'a connais que par des photos.
+                     Son père, Paul Daunais, ne s'en est pas remis, et à sombré dans l'alcoolisme.
+                     Du coup, il est surtout élevé par Amandie Fuchs, sa grand-mère maternelle, qu'il idolâtre.
+Color:               #2bff0b
+Mère:                Alice Daunais

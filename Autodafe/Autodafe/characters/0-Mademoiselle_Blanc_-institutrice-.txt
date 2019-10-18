@@ -1,0 +1,5 @@
+Name:                Mademoiselle Blanc (institutrice)
+ID:                  0
+Importance:          0
+Epiphany:            9 de Pentacle droit: succès, réalisation
+Color:               #ad9ed6

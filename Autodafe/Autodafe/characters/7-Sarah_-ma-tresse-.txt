@@ -1,0 +1,5 @@
+Name:                Sarah (maîtresse)
+ID:                  7
+Importance:          1
+Epiphany:            5 de Bâton droit : Gain, opulence, richesse
+Color:               #f0aab6

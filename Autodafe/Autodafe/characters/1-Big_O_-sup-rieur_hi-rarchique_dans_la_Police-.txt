@@ -1,0 +1,5 @@
+Name:                Big O (supérieur hiérarchique dans la Police)
+ID:                  1
+Importance:          0
+Epiphany:            Roi d'Épée renversée : Cruauté, barbarie, perversion
+Color:               #8de0bc

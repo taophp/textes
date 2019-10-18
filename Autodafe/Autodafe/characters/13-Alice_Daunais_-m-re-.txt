@@ -1,0 +1,10 @@
+Name:                Alice Daunais (mère)
+ID:                  13
+Importance:          0
+Paragraph Summary:   Reine d'Épée droite: deuil, sépération, ruine
+                     
+                     Née Fuchs.
+                     
+                     Alice est morte à 23 ans des suites de son premier accouchement, par lequel elle donne naissance à Raphaël.
+Color:               #f8c6f9
+Fille de :           Amandine Fuchs

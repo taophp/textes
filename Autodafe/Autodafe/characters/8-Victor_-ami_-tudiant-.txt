@@ -1,0 +1,6 @@
+Name:                Victor (ami étudiant)
+ID:                  8
+Importance:          0
+Epiphany:            5 de Coupe renversée : Lefs, cadeaux, succès
+Phrase Summary:      Camarade d'université de Ralph
+Color:               #b481a1

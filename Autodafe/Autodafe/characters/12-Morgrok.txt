@@ -1,0 +1,6 @@
+Name:                Morgrok
+ID:                  12
+Importance:          0
+Motivation:          Fuire la répression. Lire. Vivre tranquille.
+Phrase Summary:      Bibliophile, il a fuit la répression des livres en se cachant dans une grotte au fond de la forêt, il y vit en ermite. Les enfants l'y découvrent, se jouent à se faire peur avec lui, avant de faire sa connaissance. Malheureusement, il finira par se faire arrêté. Personne ne le reverra jamais
+Color:               #d28ab8
