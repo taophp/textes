@@ -1,6 +1,13 @@
 Name:                Matt  (ami d'enfance)
 ID:                  5
 Importance:          1
-Epiphany:            8 de Coupe droite : Modestie, joie, honneur
-Phrase Summary:      Gamin réfugié de la Zone
+Motivation:          8 de Coupe droite : modestie, joie, honneur
+Goal:                Roi de Pentacle renversé : perversion, corruption, péril, faiblesse
+Conflict:            4 de Pentacle renversé : suspense, retards, opposition
+Epiphany:            Destruction, perte, déshonneur
+Phrase Summary:      8 de Coupe droite : Modestie, joie, honneur
+                     
+                     Gamin réfugié de la Zone
+Notes:               Père: Reine de Coupe droite : bonheur, plaisir, sagesse, vertu
+                     Mère : 16 d'Atout renversée - La Tour / La Maison de Dieu : tyranie, oppression, prison
 Color:               #9a8ece

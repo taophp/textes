@@ -1,5 +1,11 @@
 Name:                Rodolphe (ami d'enfance)
 ID:                  6
 Importance:          1
-Epiphany:            14 d'Atout renversé: la Tempérance : compétition, désunion, mauvaise fortune
+Motivation:          6 d'Épée droite : Chemin, route, envoyé
+Goal:                9 de Pentacle droit : Succès, réalisation
+Conflict:            Valet de Pentacle droit : Gestion règle
+Epiphany:            6 de Bâton droit : espoir, désir, attente
+Phrase Summary:      14 d'Atout renversé: la Tempérance : compétition, désunion, mauvaise fortune
+Notes:               Père: 8 d'Épée renversée : opposition, difficulté, trahison
+                     Mère: 3 de Pentacle renversé : mesquinerie, faiblesse
 Color:               #a2afa0

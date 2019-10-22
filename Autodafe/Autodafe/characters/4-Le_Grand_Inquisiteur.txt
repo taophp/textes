@@ -14,5 +14,7 @@ Conflict:            4 d'Épée droite : Retraite, exil, solitude
                      
                      Une chose l'empêche d'arriver à sa pleine jouissance : il est seul, il ne peut se confier à personne, personne ne peut savoir qui il est en réalité sans qu'il court un danger mortel. Ses compagnons de jeux partagent sa perversité, mais ils n'en connaissent pas l'origine.
 Epiphany:            3 de Pentacle droit : Renom, gloire, aristocratie
+                     
+                     Le Grand Inquisiteur est le personnage le plus important de la société humaine de ce monde. Il reigne presque sans partage et impose sa volonté à tous. Il est fortuné, courtisé par tous. Il passe dans les médias pour le héros de la lutte contre la Zone, malgré l'échec de cette lutte. Il est très populaire auprès des personnes bien-pensantes qui voient en lui un véritable sauveur.
 Phrase Summary:      3 de Bâton droite : émigration, départ, voyage
 Color:               #000000
